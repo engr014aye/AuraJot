@@ -1,0 +1,1492 @@
+androidx.compose.ui.layout.LayoutElement
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$10
+kotlin.coroutines.jvm.internal.BaseContinuationImpl
+androidx.compose.ui.graphics.BlockGraphicsLayerElement
+androidx.compose.animation.EnterExitTransitionElement
+androidx.compose.foundation.FocusableElement
+androidx.compose.foundation.layout.LayoutWeightElement
+androidx.compose.ui.draw.ShadowGraphicsLayerElement
+androidx.core.app.RemoteActionCompat
+androidx.profileinstaller.ProfileInstallerInitializer
+androidx.core.graphics.drawable.IconCompatParcelizer
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$15
+androidx.graphics.path.PathIteratorPreApi34Impl
+androidx.startup.InitializationProvider
+com.sikandar.aurajot.data.local.dao.TaskDao$DefaultImpls
+com.sikandar.aurajot.data.local.dao.NoteDao
+androidx.compose.foundation.layout.FillElement
+androidx.compose.foundation.text.modifiers.TextStringSimpleElement
+com.sikandar.aurajot.data.local.AuraJotDatabase$Companion
+androidx.emoji2.text.EmojiCompatInitializer
+androidx.compose.ui.semantics.EmptySemanticsElement
+com.sikandar.aurajot.domain.model.TrashItem$NoteTrash
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$9
+com.sikandar.aurajot.domain.model.TrashItem$TaskTrash
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$3
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$4
+androidx.compose.foundation.text.handwriting.StylusHandwritingElementWithNegativePadding
+androidx.navigation.compose.DialogNavigator
+com.sikandar.aurajot.data.local.entity.ChecklistConverter
+com.sikandar.aurajot.MainActivity
+com.sikandar.aurajot.domain.model.ChecklistItem
+androidx.compose.ui.platform.AndroidCompositionLocals_androidKt
+androidx.compose.foundation.layout.UnspecifiedConstraintsElement
+androidx.navigation.compose.ComposeNavigator
+androidx.compose.foundation.layout.WrapContentElement
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$14
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$9
+androidx.graphics.path.ConicConverter
+com.sikandar.aurajot.AuraJotApplication
+androidx.compose.foundation.BorderModifierNodeElement
+com.sikandar.aurajot.data.local.entity.TaskEntity
+androidx.compose.foundation.layout.IntrinsicWidthElement
+com.sikandar.aurajot.domain.model.PriorityLevel
+androidx.compose.foundation.text.modifiers.TextAnnotatedStringElement
+androidx.compose.foundation.gestures.ScrollableElement
+androidx.compose.material3.MinimumInteractiveModifier
+androidx.compose.ui.focus.FocusRequesterElement
+androidx.compose.foundation.ScrollSemanticsElement
+android.support.v4.app.RemoteActionCompatParcelizer
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$12
+androidx.compose.foundation.MagnifierElement
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$2
+androidx.room.MultiInstanceInvalidationService
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl
+androidx.compose.foundation.lazy.layout.LazyLayoutSemanticsModifier
+androidx.navigation.compose.ComposeNavGraphNavigator
+androidx.compose.ui.input.pointer.PointerHoverIconModifierElement
+androidx.compose.foundation.layout.PaddingValuesElement
+androidx.compose.ui.layout.OnSizeChangedModifier
+androidx.compose.ui.draw.DrawWithCacheElement
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$13
+com.sikandar.aurajot.domain.model.PriorityLevel$Companion
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$8
+android.support.v4.graphics.drawable.IconCompatParcelizer
+com.sikandar.aurajot.data.local.AuraJotDatabase
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$13
+com.sikandar.aurajot.domain.model.TrashItem
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$2
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$12
+androidx.compose.foundation.layout.BoxChildDataElement
+androidx.compose.foundation.FocusableKt$FocusableInNonTouchModeElement$1
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$6
+androidx.lifecycle.ReportFragment
+androidx.lifecycle.ProcessLifecycleInitializer
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$3
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$10
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$11
+androidx.compose.foundation.ClickableElement
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$11
+androidx.compose.ui.focus.FocusPropertiesElement
+androidx.navigation.ActivityNavigator
+androidx.core.app.RemoteActionCompatParcelizer
+com.sikandar.aurajot.data.local.entity.NoteEntity
+androidx.compose.ui.semantics.AppendedSemanticsElement
+androidx.compose.foundation.lazy.layout.LazyLayoutItemAnimator$DisplayingDisappearingItemsElement
+androidx.compose.ui.draw.DrawWithContentElement
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$8
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$5
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl$1
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$15
+androidx.compose.foundation.BackgroundElement
+androidx.compose.ui.draw.PainterElement
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$5
+androidx.compose.ui.platform.DragAndDropModifierOnDragListener$modifier$1
+androidx.annotation.Keep
+kotlinx.coroutines.internal.StackTraceRecoveryKt
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$1
+androidx.compose.ui.input.key.KeyInputElement
+androidx.compose.foundation.text.input.internal.LegacyAdaptingPlatformTextInputModifier
+androidx.versionedparcelable.ParcelImpl
+androidx.navigation.NavGraphNavigator
+androidx.compose.ui.input.pointer.SuspendPointerInputElement
+androidx.profileinstaller.ProfileInstallReceiver
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl
+androidx.compose.ui.draw.DrawBehindElement
+com.sikandar.aurajot.domain.model.TaskItem
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$6
+androidx.compose.foundation.IndicationModifierElement
+androidx.compose.ui.focus.FocusChangedElement
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$7
+androidx.compose.ui.layout.OnGloballyPositionedElement
+androidx.compose.foundation.layout.SizeElement
+androidx.compose.foundation.ScrollingLayoutElement
+androidx.core.app.CoreComponentFactory
+androidx.compose.foundation.layout.PaddingElement
+androidx.compose.foundation.lazy.layout.TraversablePrefetchStateModifierElement
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$1
+androidx.compose.ui.graphics.GraphicsLayerElement
+com.sikandar.aurajot.data.local.dao.TaskDao
+androidx.compose.ui.focus.FocusOwnerImpl$modifier$2
+kotlinx.coroutines.android.AndroidDispatcherFactory
+androidx.compose.foundation.relocation.BringIntoViewRequesterElement
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$14
+androidx.core.graphics.drawable.IconCompat
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$7
+com.sikandar.aurajot.domain.model.Note
+androidx.compose.foundation.text.modifiers.SelectableTextAnnotatedStringElement
+androidx.compose.ui.input.rotary.RotaryInputElement
+androidx.versionedparcelable.CustomVersionedParcelable
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$4
+kotlinx.coroutines.scheduling.WorkQueue: int producerIndex$volatile
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl: androidx.room.EntityInsertionAdapter __insertionAdapterOfNoteEntity
+com.sikandar.aurajot.domain.model.PriorityLevel: java.lang.String label
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: java.lang.Object _next$volatile
+androidx.room.RoomDatabase: int MAX_BIND_PARAMETER_CNT
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl: androidx.room.SharedSQLiteStatement __preparedStmtOfSoftDeleteNote
+com.sikandar.aurajot.domain.model.Note: long updatedAt
+androidx.room.RoomDatabase: java.util.concurrent.Executor internalTransactionExecutor
+androidx.room.SharedSQLiteStatement: kotlin.Lazy stmt$delegate
+com.sikandar.aurajot.domain.model.TaskItem: java.lang.Long dueDateMillis
+androidx.room.SharedSQLiteStatement: androidx.room.RoomDatabase database
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object closeHandler$volatile
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _next$volatile
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: int _availablePermits$volatile
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$8: long val$id
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int workerCtl$volatile
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl: androidx.room.SharedSQLiteStatement __preparedStmtOfPermanentlyDeleteNote
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object bufferEndSegment$volatile
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$8: long val$updatedAt
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$8: com.sikandar.aurajot.data.local.dao.NoteDao_Impl this$0
+com.sikandar.aurajot.domain.model.PriorityLevel: int level
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$9: long val$deletedAt
+com.sikandar.aurajot.data.local.entity.ChecklistConverter: int $stable
+com.sikandar.aurajot.domain.model.Note: int $stable
+kotlinx.coroutines.flow.ChannelAsFlow: int consumed$volatile
+com.sikandar.aurajot.data.local.entity.NoteEntity: long updatedAt
+com.sikandar.aurajot.data.local.entity.TaskEntity: java.lang.String priority
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _rootCause$volatile
+com.sikandar.aurajot.data.local.entity.NoteEntity: java.lang.Long deletedAt
+com.sikandar.aurajot.domain.model.Note: java.lang.String category
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: long deqIdx$volatile
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_CREATE
+com.sikandar.aurajot.domain.model.TaskItem: java.lang.String category
+com.sikandar.aurajot.data.local.entity.TaskEntity: java.lang.Long dueDateMillis
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$11: long val$id
+com.sikandar.aurajot.domain.model.Note: java.lang.String title
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$3: com.sikandar.aurajot.data.local.dao.NoteDao_Impl this$0
+androidx.room.RoomDatabase: androidx.room.AutoCloser autoCloser
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _parentHandle$volatile
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$6: com.sikandar.aurajot.data.local.dao.TaskDao_Impl this$0
+com.sikandar.aurajot.domain.model.TrashItem$TaskTrash: com.sikandar.aurajot.domain.model.TaskItem task
+kotlinx.coroutines.scheduling.WorkQueue: java.lang.Object lastScheduledTask$volatile
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Listener listeners
+com.sikandar.aurajot.data.local.entity.NoteEntity: java.lang.String category
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$4: com.sikandar.aurajot.data.local.dao.TaskDao_Impl this$0
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$9: long val$id
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: java.lang.Object nextParkedWorker
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl: androidx.room.SharedSQLiteStatement __preparedStmtOfRestoreNote
+com.sikandar.aurajot.data.local.entity.TaskEntity: long updatedAt
+com.sikandar.aurajot.data.local.AuraJotDatabase: java.lang.String DATABASE_NAME
+kotlinx.coroutines.DefaultExecutor: int debugStatus
+kotlinx.coroutines.channels.BufferedChannel: long completedExpandBuffersAndPauseFlag$volatile
+com.sikandar.aurajot.data.local.entity.NoteEntity: long id
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$10: long val$id
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$13: com.sikandar.aurajot.data.local.dao.NoteDao_Impl this$0
+com.sikandar.aurajot.domain.model.TrashItem$TaskTrash: int $stable
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object _closeCause$volatile
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_PAUSE
+com.sikandar.aurajot.data.local.entity.NoteEntity: long createdAt
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object receiveSegment$volatile
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$8: boolean val$isCompleted
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: androidx.concurrent.futures.AbstractResolvableFuture$Waiter next
+com.sikandar.aurajot.domain.model.TaskItem: java.lang.Long deletedAt
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$7: com.sikandar.aurajot.data.local.dao.NoteDao_Impl this$0
+kotlin.coroutines.SafeContinuation: java.lang.Object result
+com.sikandar.aurajot.data.local.AuraJotDatabase: int $stable
+com.sikandar.aurajot.data.local.entity.ChecklistConverter: com.sikandar.aurajot.data.local.entity.ChecklistConverter INSTANCE
+com.sikandar.aurajot.domain.model.PriorityLevel: com.sikandar.aurajot.domain.model.PriorityLevel LOW
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl: com.sikandar.aurajot.data.local.dao.NoteDao _noteDao
+kotlinx.coroutines.channels.BufferedChannel: long receivers$volatile
+com.sikandar.aurajot.data.local.entity.TaskEntity: java.lang.String category
+com.sikandar.aurajot.domain.model.Note: java.lang.Long deletedAt
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: androidx.lifecycle.ReportFragment$LifecycleCallbacks$Companion Companion
+kotlinx.coroutines.EventLoopImplBase: int _isCompleted$volatile
+androidx.concurrent.futures.AbstractResolvableFuture: java.lang.Object value
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$1: com.sikandar.aurajot.data.local.dao.TaskDao_Impl this$0
+com.sikandar.aurajot.domain.model.TaskItem: long updatedAt
+com.sikandar.aurajot.data.local.entity.TaskEntity: java.lang.String checklistRaw
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$1: com.sikandar.aurajot.data.local.dao.NoteDao_Impl this$0
+kotlinx.coroutines.scheduling.CoroutineScheduler: long controlState$volatile
+androidx.room.RoomDatabase: boolean allowMainThreadQueries
+kotlinx.coroutines.CancellableContinuationImpl: int _decisionAndIndex$volatile
+com.sikandar.aurajot.domain.model.ChecklistItem: boolean isDone
+kotlinx.coroutines.internal.Segment: int cleanedAndPointers$volatile
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl$1: com.sikandar.aurajot.data.local.AuraJotDatabase_Impl this$0
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$15: androidx.room.RoomSQLiteQuery val$_statement
+androidx.room.RoomDatabase: java.util.List mCallbacks
+com.sikandar.aurajot.data.local.entity.TaskEntity: java.lang.String title
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$7: com.sikandar.aurajot.data.local.entity.NoteEntity val$note
+androidx.room.RoomOpenHelper$Delegate: int version
+kotlinx.coroutines.internal.ThreadSafeHeap: int _size$volatile
+com.sikandar.aurajot.domain.model.TrashItem$NoteTrash: int $stable
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl: androidx.room.SharedSQLiteStatement __preparedStmtOfRestoreTask
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl: androidx.room.SharedSQLiteStatement __preparedStmtOfPermanentlyDeleteTask
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$14: androidx.room.RoomSQLiteQuery val$_statement
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$11: com.sikandar.aurajot.data.local.dao.NoteDao_Impl this$0
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$15: androidx.room.RoomSQLiteQuery val$_statement
+kotlinx.coroutines.channels.BufferedChannel: long bufferEnd$volatile
+com.sikandar.aurajot.domain.model.TaskItem: long createdAt
+com.sikandar.aurajot.domain.model.PriorityLevel: com.sikandar.aurajot.domain.model.PriorityLevel HIGH
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_RESUME
+com.sikandar.aurajot.data.local.AuraJotDatabase: com.sikandar.aurajot.data.local.AuraJotDatabase INSTANCE
+kotlinx.coroutines.sync.MutexImpl: java.lang.Object owner$volatile
+androidx.room.RoomDatabase: androidx.sqlite.db.SupportSQLiteDatabase mDatabase
+com.sikandar.aurajot.domain.model.TaskItem: long id
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$9: com.sikandar.aurajot.data.local.dao.NoteDao_Impl this$0
+kotlinx.coroutines.scheduling.CoroutineScheduler: int _isTerminated$volatile
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl: androidx.room.RoomDatabase __db
+com.sikandar.aurajot.data.local.entity.TaskEntity: long createdAt
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] $VALUES
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl: androidx.room.EntityInsertionAdapter __insertionAdapterOfTaskEntity
+com.sikandar.aurajot.domain.model.Note: java.lang.String content
+androidx.compose.runtime.ParcelableSnapshotMutableFloatState: android.os.Parcelable$Creator CREATOR
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$3: com.sikandar.aurajot.data.local.dao.TaskDao_Impl this$0
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$4: com.sikandar.aurajot.data.local.dao.NoteDao_Impl this$0
+androidx.compose.runtime.ParcelableSnapshotMutableIntState: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.DispatchedCoroutine: int _decision$volatile
+kotlinx.coroutines.EventLoopImplBase$DelayedTask: java.lang.Object _heap
+kotlinx.coroutines.internal.ConcurrentLinkedListNode: java.lang.Object _prev$volatile
+kotlinx.coroutines.JobSupport: java.lang.Object _state$volatile
+com.sikandar.aurajot.data.local.entity.TaskEntity: boolean isCompleted
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$6: com.sikandar.aurajot.data.local.dao.NoteDao_Impl this$0
+kotlinx.coroutines.JobSupport: java.lang.Object _parentHandle$volatile
+com.sikandar.aurajot.data.local.entity.TaskEntity: java.lang.String notes
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$10: com.sikandar.aurajot.data.local.dao.TaskDao_Impl this$0
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$15: com.sikandar.aurajot.data.local.dao.NoteDao_Impl this$0
+com.sikandar.aurajot.data.local.entity.TaskEntity: long id
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$2: com.sikandar.aurajot.data.local.dao.TaskDao_Impl this$0
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl: androidx.room.RoomDatabase __db
+kotlinx.coroutines.DefaultExecutor: java.lang.Thread _thread
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+com.sikandar.aurajot.data.local.entity.NoteEntity: java.lang.String content
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: long enqIdx$volatile
+androidx.activity.result.ActivityResult: android.os.Parcelable$Creator CREATOR
+androidx.room.RoomDatabase: androidx.room.RoomDatabase$Companion Companion
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$9: com.sikandar.aurajot.data.local.dao.TaskDao_Impl this$0
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _state$volatile
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl: androidx.room.SharedSQLiteStatement __preparedStmtOfSoftDeleteTask
+kotlinx.coroutines.CompletedExceptionally: int _handled$volatile
+com.sikandar.aurajot.domain.model.PriorityLevel: com.sikandar.aurajot.domain.model.PriorityLevel$Companion Companion
+com.sikandar.aurajot.domain.model.PriorityLevel: kotlin.enums.EnumEntries $ENTRIES
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$10: long val$id
+androidx.room.RoomDatabase: java.util.Map autoMigrationSpecs
+androidx.compose.foundation.lazy.layout.DefaultLazyKey: android.os.Parcelable$Creator CREATOR
+com.sikandar.aurajot.domain.model.TrashItem: int $stable
+androidx.room.RoomDatabase: java.util.Map backingFieldMap
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$10: boolean val$isPinned
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_STOP
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$8: long val$deletedAt
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$8: com.sikandar.aurajot.data.local.dao.TaskDao_Impl this$0
+com.sikandar.aurajot.domain.model.ChecklistItem: java.lang.String id
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl: androidx.room.SharedSQLiteStatement __preparedStmtOfTogglePin
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _delayed$volatile
+com.sikandar.aurajot.domain.model.Note: boolean isDeleted
+androidx.navigation.NavBackStackEntryState: android.os.Parcelable$Creator CREATOR
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl: com.sikandar.aurajot.data.local.dao.TaskDao _taskDao
+androidx.room.RoomDatabase: java.lang.ThreadLocal suspendingTransactionId
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$12: com.sikandar.aurajot.data.local.dao.TaskDao_Impl this$0
+com.sikandar.aurajot.domain.model.Note: boolean isPinned
+kotlinx.coroutines.android.HandlerDispatcherKt: android.view.Choreographer choreographer
+com.sikandar.aurajot.data.local.entity.NoteEntity: boolean isDeleted
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+kotlinx.coroutines.CancelledContinuation: int _resumed$volatile
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+androidx.compose.runtime.ParcelableSnapshotMutableLongState: android.os.Parcelable$Creator CREATOR
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: java.lang.Thread thread
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$5: com.sikandar.aurajot.data.local.dao.NoteDao_Impl this$0
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$9: long val$id
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl: androidx.room.SharedSQLiteStatement __preparedStmtOfToggleTaskCompletion
+kotlinx.coroutines.scheduling.WorkQueue: int blockingTasksInBuffer$volatile
+com.sikandar.aurajot.data.local.entity.NoteEntity: int $stable
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$13: androidx.room.RoomSQLiteQuery val$_statement
+androidx.room.RoomDatabase: androidx.room.InvalidationTracker invalidationTracker
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Waiter waiters
+kotlin.SafePublicationLazyImpl: java.lang.Object _value
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$13: androidx.room.RoomSQLiteQuery val$_statement
+kotlinx.coroutines.UndispatchedCoroutine: boolean threadLocalIsSet
+kotlinx.coroutines.InvokeOnCancelling: int _invoked$volatile
+kotlinx.coroutines.scheduling.WorkQueue: int consumerIndex$volatile
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$14: com.sikandar.aurajot.data.local.dao.NoteDao_Impl this$0
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _exceptionsHolder$volatile
+com.sikandar.aurajot.data.local.entity.NoteEntity: java.lang.String colorHex
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$7: com.sikandar.aurajot.data.local.dao.TaskDao_Impl this$0
+kotlinx.coroutines.scheduling.CoroutineScheduler: long parkedWorkersStack$volatile
+kotlinx.coroutines.internal.ResizableAtomicArray: java.util.concurrent.atomic.AtomicReferenceArray array
+androidx.room.SharedSQLiteStatement: java.util.concurrent.atomic.AtomicBoolean lock
+com.sikandar.aurajot.domain.model.TaskItem: java.lang.String notes
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int indexInArray
+com.sikandar.aurajot.domain.model.Note: long createdAt
+com.sikandar.aurajot.data.local.entity.TaskEntity: java.lang.Long deletedAt
+kotlinx.coroutines.flow.StateFlowImpl: java.lang.Object _state$volatile
+androidx.room.RoomDatabase: java.util.Map typeConverters
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _prev$volatile
+kotlinx.coroutines.JobSupport$Finishing: int _isCompleting$volatile
+com.sikandar.aurajot.domain.model.ChecklistItem: int $stable
+com.sikandar.aurajot.domain.model.TaskItem: java.lang.String title
+com.sikandar.aurajot.domain.model.PriorityLevel: com.sikandar.aurajot.domain.model.PriorityLevel[] $VALUES
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _removedRef$volatile
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: java.lang.Object head$volatile
+com.sikandar.aurajot.domain.model.TaskItem: int $stable
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object sendSegment$volatile
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$11: long val$id
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_ANY
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _queue$volatile
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$2: com.sikandar.aurajot.data.local.dao.NoteDao_Impl this$0
+com.sikandar.aurajot.data.local.AuraJotDatabase: com.sikandar.aurajot.data.local.AuraJotDatabase$Companion Companion
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$8: long val$id
+com.sikandar.aurajot.domain.model.TaskItem: boolean isDeleted
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$12: com.sikandar.aurajot.data.local.dao.NoteDao_Impl this$0
+kotlinx.coroutines.internal.LimitedDispatcher: int runningWorkers$volatile
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_START
+androidx.room.RoomDatabase: java.util.concurrent.locks.ReentrantReadWriteLock readWriteLock
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_DESTROY
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$14: androidx.room.RoomSQLiteQuery val$_statement
+com.sikandar.aurajot.data.local.entity.TaskEntity: int $stable
+com.sikandar.aurajot.domain.model.TrashItem$NoteTrash: com.sikandar.aurajot.domain.model.Note note
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$10: com.sikandar.aurajot.data.local.dao.NoteDao_Impl this$0
+com.sikandar.aurajot.data.local.entity.TaskEntity: boolean isDeleted
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl: androidx.room.SharedSQLiteStatement __preparedStmtOfEmptyTrash
+androidx.compose.runtime.ParcelableSnapshotMutableState: android.os.Parcelable$Creator CREATOR
+com.sikandar.aurajot.data.local.entity.NoteEntity: boolean isPinned
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$11: com.sikandar.aurajot.data.local.dao.TaskDao_Impl this$0
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event$Companion Companion
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$15: com.sikandar.aurajot.data.local.dao.TaskDao_Impl this$0
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$7: com.sikandar.aurajot.data.local.entity.TaskEntity val$task
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: long _state$volatile
+kotlinx.coroutines.android.AndroidExceptionPreHandler: java.lang.Object _preHandler
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$14: com.sikandar.aurajot.data.local.dao.TaskDao_Impl this$0
+kotlinx.coroutines.internal.DispatchedContinuation: java.lang.Object _reusableCancellableContinuation$volatile
+com.sikandar.aurajot.domain.model.ChecklistItem: java.lang.String text
+com.sikandar.aurajot.domain.model.Note: java.lang.String colorHex
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: java.lang.Object tail$volatile
+kotlinx.coroutines.internal.ConcurrentLinkedListNode: java.lang.Object _next$volatile
+kotlinx.coroutines.internal.LockFreeTaskQueue: java.lang.Object _cur$volatile
+com.sikandar.aurajot.domain.model.TaskItem: boolean isCompleted
+com.sikandar.aurajot.data.local.entity.NoteEntity: java.lang.String title
+com.sikandar.aurajot.domain.model.PriorityLevel: com.sikandar.aurajot.domain.model.PriorityLevel MEDIUM
+com.sikandar.aurajot.domain.model.Note: long id
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$5: com.sikandar.aurajot.data.local.dao.TaskDao_Impl this$0
+androidx.room.RoomDatabase: java.util.concurrent.Executor internalQueryExecutor
+kotlinx.coroutines.channels.BufferedChannel: long sendersAndCloseStatus$volatile
+androidx.room.RoomDatabase: boolean writeAheadLoggingEnabled
+androidx.room.RoomDatabase: androidx.sqlite.db.SupportSQLiteOpenHelper internalOpenHelper
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl: androidx.room.SharedSQLiteStatement __preparedStmtOfEmptyTrash
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$13: com.sikandar.aurajot.data.local.dao.TaskDao_Impl this$0
+com.sikandar.aurajot.domain.model.TaskItem: java.util.List checklist
+com.sikandar.aurajot.domain.model.TaskItem: com.sikandar.aurajot.domain.model.PriorityLevel priority
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$8: NoteDao_Impl$8(com.sikandar.aurajot.data.local.dao.NoteDao_Impl,long,long)
+androidx.navigation.compose.DialogNavigator: DialogNavigator()
+androidx.compose.ui.platform.AndroidViewConfigurationApi34: float getScaledHandwritingGestureLineMargin(android.view.ViewConfiguration)
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl: AuraJotDatabase_Impl()
+com.sikandar.aurajot.MainActivity: MainActivity()
+androidx.compose.ui.platform.AndroidComposeView: void setAccessibilityEventBatchIntervalMillis(long)
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: WindowInsetsCompat$BuilderImpl30(androidx.core.view.WindowInsetsCompat)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl: java.lang.Object togglePin(long,boolean,kotlin.coroutines.Continuation)
+androidx.room.RoomDatabase: void access$internalEndTransaction(androidx.room.RoomDatabase)
+androidx.compose.ui.text.style.ResolvedTextDirection: androidx.compose.ui.text.style.ResolvedTextDirection valueOf(java.lang.String)
+androidx.compose.runtime.Recomposer$State: androidx.compose.runtime.Recomposer$State valueOf(java.lang.String)
+androidx.compose.ui.graphics.BlendModeColorFilterHelper: android.graphics.BlendModeColorFilter BlendModeColorFilter-xETnrds(long,int)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$4: java.lang.String createQuery()
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$2: java.lang.String createQuery()
+com.sikandar.aurajot.data.local.entity.NoteEntity: java.lang.Long getDeletedAt()
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$13: java.lang.Object call()
+androidx.navigation.serialization.RouteBuilder$ParamType: androidx.navigation.serialization.RouteBuilder$ParamType[] values()
+androidx.core.graphics.drawable.IconCompat$Api28Impl: java.lang.String getResPackage(java.lang.Object)
+androidx.compose.runtime.InvalidationResult: androidx.compose.runtime.InvalidationResult[] values()
+androidx.core.graphics.PaintCompat$Api23Impl: boolean hasGlyph(android.graphics.Paint,java.lang.String)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: java.util.List getBoundingRects(android.view.DisplayCutout)
+androidx.compose.foundation.FocusableKt$FocusableInNonTouchModeElement$1: FocusableKt$FocusableInNonTouchModeElement$1()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performInsertGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.InsertGesture,androidx.compose.ui.platform.ViewConfiguration,kotlin.jvm.functions.Function1)
+androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicWidthHeight: androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicWidthHeight[] values()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: androidx.core.view.accessibility.AccessibilityNodeInfoCompat getParent(android.view.accessibility.AccessibilityNodeInfo,int)
+com.sikandar.aurajot.data.local.dao.TaskDao: kotlinx.coroutines.flow.Flow getActiveTasks()
+com.sikandar.aurajot.data.local.dao.NoteDao: java.lang.Object getNoteById(long,kotlin.coroutines.Continuation)
+com.sikandar.aurajot.data.local.entity.NoteEntity: java.lang.String component2()
+androidx.compose.ui.platform.RenderNodeVerificationHelper28: int getAmbientShadowColor(android.view.RenderNode)
+com.sikandar.aurajot.data.local.entity.NoteEntity: java.lang.String component3()
+com.sikandar.aurajot.data.local.dao.TaskDao: java.lang.Object softDeleteTask(long,long,kotlin.coroutines.Continuation)
+com.sikandar.aurajot.data.local.entity.TaskEntity: TaskEntity(long,java.lang.String,java.lang.String,boolean,java.lang.String,java.lang.Long,java.lang.String,java.lang.String,boolean,long,long,java.lang.Long,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performHandwritingGesture$foundation_release(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.HandwritingGesture,androidx.compose.foundation.text.input.internal.TextLayoutState,androidx.compose.ui.platform.ViewConfiguration)
+com.sikandar.aurajot.domain.model.TaskItem: com.sikandar.aurajot.domain.model.PriorityLevel component5()
+androidx.core.graphics.drawable.IconCompat$Api23Impl: android.net.Uri getUri(java.lang.Object)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$15: java.lang.Object call()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.autofill.Autofill getAutofill()
+com.sikandar.aurajot.presentation.screens.tasks.TaskFilter: com.sikandar.aurajot.presentation.screens.tasks.TaskFilter[] values()
+androidx.compose.ui.text.android.CanvasCompatO: boolean clipOutRect(android.graphics.Canvas,int,int,int,int)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performSelectGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.SelectGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager,kotlin.jvm.functions.Function1)
+com.sikandar.aurajot.data.local.dao.NoteDao: java.lang.Object restoreNote(long,kotlin.coroutines.Continuation)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$8: java.lang.Object call()
+androidx.activity.OnBackPressedDispatcher$Api33Impl: void unregisterOnBackInvokedCallback(java.lang.Object,java.lang.Object)
+com.sikandar.aurajot.data.local.entity.TaskEntity: java.lang.String component2()
+com.sikandar.aurajot.domain.model.TaskItem: java.lang.Long component12()
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.platform.AbstractComposeView getSubCompositionView()
+com.sikandar.aurajot.domain.model.TaskItem: boolean component4()
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+androidx.compose.foundation.gestures.Orientation: androidx.compose.foundation.gestures.Orientation[] values()
+com.sikandar.aurajot.data.local.entity.ChecklistConverter: java.util.List toList(java.lang.String)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$7: NoteDao_Impl$7(com.sikandar.aurajot.data.local.dao.NoteDao_Impl,com.sikandar.aurajot.data.local.entity.NoteEntity)
+com.sikandar.aurajot.data.local.dao.NoteDao: java.lang.Object emptyTrash(kotlin.coroutines.Continuation)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: int getSafeInsetBottom(android.view.DisplayCutout)
+androidx.compose.ui.platform.ComposeView: boolean getShouldCreateCompositionOnAttachedToWindow()
+androidx.room.RoomOpenHelper$Delegate: void validateMigration(androidx.sqlite.db.SupportSQLiteDatabase)
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType valueOf(java.lang.String)
+androidx.compose.ui.text.android.StaticLayoutFactory33: boolean isFallbackLineSpacingEnabled(android.text.StaticLayout)
+com.sikandar.aurajot.domain.model.TaskItem: java.util.List component8()
+androidx.compose.ui.platform.AndroidComposeView: long getMeasureIteration()
+androidx.room.EntityInsertionAdapter: long[] insertAndReturnIdsArray(java.util.Collection)
+androidx.activity.ComponentActivity: void setContentView(android.view.View)
+androidx.compose.ui.node.LayoutNode$LayoutState: androidx.compose.ui.node.LayoutNode$LayoutState valueOf(java.lang.String)
+androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction: androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction valueOf(java.lang.String)
+androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicMinMax: androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicMinMax valueOf(java.lang.String)
+androidx.room.RoomDatabase: java.lang.ThreadLocal getSuspendingTransactionId()
+androidx.compose.ui.graphics.layer.RenderNodeVerificationHelper28: void setSpotShadowColor(android.view.RenderNode,int)
+com.sikandar.aurajot.presentation.components.RichFormatAction: com.sikandar.aurajot.presentation.components.RichFormatAction valueOf(java.lang.String)
+androidx.compose.foundation.text.selection.CrossStatus: androidx.compose.foundation.text.selection.CrossStatus[] values()
+androidx.compose.foundation.text.KeyCommand: androidx.compose.foundation.text.KeyCommand[] values()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void applyInsetTypes()
+com.sikandar.aurajot.domain.model.TrashItem: java.lang.String getTitle()
+androidx.core.view.ViewCompat$Api21Impl: void setBackgroundTintMode(android.view.View,android.graphics.PorterDuff$Mode)
+androidx.compose.ui.graphics.Api26Bitmap: android.graphics.Bitmap createBitmap-x__-hDU$ui_graphics_release(int,int,int,boolean,androidx.compose.ui.graphics.colorspace.ColorSpace)
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl: java.util.Set getRequiredAutoMigrationSpecs()
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$1: NoteDao_Impl$1(com.sikandar.aurajot.data.local.dao.NoteDao_Impl,androidx.room.RoomDatabase)
+kotlin.collections.AbstractMutableList: AbstractMutableList()
+androidx.compose.ui.text.android.CanvasCompatS: void drawPatch(android.graphics.Canvas,android.graphics.NinePatch,android.graphics.Rect,android.graphics.Paint)
+androidx.compose.ui.focus.CustomDestinationResult: androidx.compose.ui.focus.CustomDestinationResult valueOf(java.lang.String)
+com.sikandar.aurajot.domain.model.TaskItem: java.lang.Long getDueDateMillis()
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl28)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$14: void finalize()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performDeleteGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.DeleteGesture,androidx.compose.ui.text.AnnotatedString,kotlin.jvm.functions.Function1)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setInsets(int,androidx.core.graphics.Insets)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostStarted(android.app.Activity)
+com.sikandar.aurajot.domain.model.TrashItem: java.lang.String getItemType()
+androidx.compose.ui.graphics.AndroidGraphicsContext$UniqueDrawingIdApi29: long getUniqueDrawingId(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+androidx.core.view.ViewCompat$Api28Impl: void setAutofillId(android.view.View,androidx.core.view.autofill.AutofillIdCompat)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: androidx.core.view.accessibility.AccessibilityNodeInfoCompat getChild(android.view.accessibility.AccessibilityNodeInfo,int,int)
+com.sikandar.aurajot.domain.model.PriorityLevel: PriorityLevel(java.lang.String,int,java.lang.String,int)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPaused(android.app.Activity)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: boolean isTextSelectable(android.view.accessibility.AccessibilityNodeInfo)
+androidx.compose.ui.platform.ViewLayer: long getOwnerViewId()
+androidx.room.RoomDatabase: java.util.Map getBackingFieldMap()
+androidx.compose.ui.platform.AbstractComposeView: void setPreviousAttachedWindowToken(android.os.IBinder)
+androidx.activity.ComponentActivity$Api33Impl: android.window.OnBackInvokedDispatcher getOnBackInvokedDispatcher(android.app.Activity)
+androidx.core.view.ViewCompat$Api21Impl: boolean startNestedScroll(android.view.View,int)
+com.sikandar.aurajot.domain.model.Note: com.sikandar.aurajot.domain.model.Note copy$default(com.sikandar.aurajot.domain.model.Note,long,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean,boolean,long,long,java.lang.Long,int,java.lang.Object)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void setBoundsInWindow(android.view.accessibility.AccessibilityNodeInfo,android.graphics.Rect)
+com.sikandar.aurajot.domain.model.Note: long getUpdatedAt()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: boolean hasRequestInitialAccessibilityFocus(android.view.accessibility.AccessibilityNodeInfo)
+androidx.compose.ui.platform.AndroidComposeView: kotlin.coroutines.CoroutineContext getCoroutineContext()
+com.sikandar.aurajot.domain.model.Note: boolean isDeleted()
+androidx.sqlite.db.framework.FrameworkSQLiteOpenHelper$OpenHelper$CallbackName: androidx.sqlite.db.framework.FrameworkSQLiteOpenHelper$OpenHelper$CallbackName[] values()
+androidx.compose.ui.platform.ComposeView: void setContent(kotlin.jvm.functions.Function2)
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl: boolean isConsumed()
+androidx.core.view.ViewCompat$Api21Impl: androidx.core.view.WindowInsetsCompat computeSystemWindowInsets(android.view.View,androidx.core.view.WindowInsetsCompat,android.graphics.Rect)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: android.view.DisplayCutout createDisplayCutout(android.graphics.Rect,java.util.List)
+com.sikandar.aurajot.domain.model.ChecklistItem: java.lang.String component1()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemWindowInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.text.platform.Api28Impl: android.text.style.TypefaceSpan createTypefaceSpan(android.graphics.Typeface)
+androidx.core.view.WindowInsetsCompat$Impl28: boolean equals(java.lang.Object)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: WindowInsetsCompat$BuilderImpl20(androidx.core.view.WindowInsetsCompat)
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getSystemWindowInsets()
+com.sikandar.aurajot.data.local.entity.TaskEntity: int hashCode()
+androidx.core.view.ViewConfigurationCompat$Api26Impl: float getScaledVerticalScrollFactor(android.view.ViewConfiguration)
+androidx.compose.ui.graphics.BlendModeColorFilterHelper: androidx.compose.ui.graphics.BlendModeColorFilter createBlendModeColorFilter(android.graphics.BlendModeColorFilter)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void performInsertionOnLegacyTextField(int,java.lang.String,kotlin.jvm.functions.Function1)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$10: java.lang.Object call()
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart[] values()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostResumed(android.app.Activity)
+androidx.core.view.ViewCompat$Api20Impl: android.view.WindowInsets dispatchApplyWindowInsets(android.view.View,android.view.WindowInsets)
+androidx.compose.foundation.text.HandleState: androidx.compose.foundation.text.HandleState valueOf(java.lang.String)
+com.sikandar.aurajot.data.local.AuraJotDatabase: AuraJotDatabase()
+androidx.room.MultiInstanceInvalidationService: MultiInstanceInvalidationService()
+androidx.compose.ui.platform.TextToolbarStatus: androidx.compose.ui.platform.TextToolbarStatus[] values()
+androidx.core.view.ViewCompat$Api28Impl: void removeOnUnhandledKeyEventListener(android.view.View,androidx.core.view.ViewCompat$OnUnhandledKeyEventListenerCompat)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl: kotlinx.coroutines.flow.Flow getActiveTasks()
+com.sikandar.aurajot.domain.model.TrashItem$TaskTrash: com.sikandar.aurajot.domain.model.TaskItem component1()
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl: androidx.room.InvalidationTracker createInvalidationTracker()
+androidx.activity.Api34Impl: android.window.BackEvent createOnBackEvent(float,float,float,int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: void setSystemWindowInsets(androidx.core.graphics.Insets)
+com.sikandar.aurajot.domain.model.TaskItem: java.util.List getChecklist()
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$11: NoteDao_Impl$11(com.sikandar.aurajot.data.local.dao.NoteDao_Impl,long)
+androidx.compose.ui.text.android.CanvasCompatQ: void drawDoubleRoundRect(android.graphics.Canvas,android.graphics.RectF,float[],android.graphics.RectF,float[],android.graphics.Paint)
+androidx.navigation.compose.ComposeNavigator: ComposeNavigator()
+com.sikandar.aurajot.data.local.entity.NoteEntity: long component9()
+androidx.room.RoomDatabase: void isOpen$annotations()
+androidx.room.EntityInsertionAdapter: java.lang.Long[] insertAndReturnIdsArrayBox(java.util.Collection)
+androidx.room.RoomDatabase: void internalInitInvalidationTracker(androidx.sqlite.db.SupportSQLiteDatabase)
+androidx.core.view.ViewCompat$Api29Impl: java.util.List getSystemGestureExclusionRects(android.view.View)
+androidx.compose.ui.platform.AndroidComposeViewVerificationHelperMethodsN: void setPointerIcon(android.view.View,androidx.compose.ui.input.pointer.PointerIcon)
+androidx.core.view.WindowInsetsCompat$Impl: WindowInsetsCompat$Impl(androidx.core.view.WindowInsetsCompat)
+androidx.compose.ui.text.android.CanvasCompatS: void drawPatch(android.graphics.Canvas,android.graphics.NinePatch,android.graphics.RectF,android.graphics.Paint)
+androidx.profileinstaller.ProfileInstallerInitializer: ProfileInstallerInitializer()
+androidx.lifecycle.ProcessLifecycleInitializer: ProcessLifecycleInitializer()
+androidx.compose.ui.platform.coreshims.ViewStructureCompat$Api23Impl: void setClassName(android.view.ViewStructure,java.lang.String)
+androidx.core.view.ViewCompat$Api30Impl: void setStateDescription(android.view.View,java.lang.CharSequence)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$13: NoteDao_Impl$13(com.sikandar.aurajot.data.local.dao.NoteDao_Impl,androidx.room.RoomSQLiteQuery)
+androidx.compose.ui.text.input.CursorAnchorInfoApi33Helper: android.view.inputmethod.CursorAnchorInfo$Builder setEditorBoundsInfo(android.view.inputmethod.CursorAnchorInfo$Builder,androidx.compose.ui.geometry.Rect)
+androidx.compose.ui.platform.RenderNodeVerificationHelper28: void setSpotShadowColor(android.view.RenderNode,int)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+com.sikandar.aurajot.domain.model.TrashItem$NoteTrash: boolean equals(java.lang.Object)
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedPreFling(android.view.View,float,float)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$12: java.lang.Object call()
+com.sikandar.aurajot.domain.model.Note: java.lang.String component2()
+androidx.startup.InitializationProvider: InitializationProvider()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidViewsHandler getAndroidViewsHandler$ui_release()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.input.InputModeManager getInputModeManager()
+androidx.core.content.res.FontResourcesParserCompat$Api21Impl: int getType(android.content.res.TypedArray,int)
+androidx.compose.ui.autofill.AutofillApi26Helper: void setAutofillHints(android.view.ViewStructure,java.lang.String[])
+com.sikandar.aurajot.data.local.entity.NoteEntity: long component8()
+androidx.core.view.DisplayCutoutCompat$Api30Impl: android.view.DisplayCutout createDisplayCutout(android.graphics.Insets,android.graphics.Rect,android.graphics.Rect,android.graphics.Rect,android.graphics.Rect,android.graphics.Insets)
+com.sikandar.aurajot.domain.model.Note: long getCreatedAt()
+androidx.compose.ui.graphics.layer.RenderNodeVerificationHelper28: int getSpotShadowColor(android.view.RenderNode)
+androidx.core.view.ViewCompat$Api21Impl: androidx.core.view.WindowInsetsCompat getRootWindowInsets(android.view.View)
+androidx.core.view.ViewCompat$Api29Impl: android.view.contentcapture.ContentCaptureSession getContentCaptureSession(android.view.View)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl: java.util.List getAutoMigrations(java.util.Map)
+androidx.emoji2.text.ConcurrencyHelpers$Handler28Impl: android.os.Handler createAsync(android.os.Looper)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void performDeletion-Sb-Bc2M(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,long,boolean)
+androidx.room.SharedSQLiteStatement: androidx.sqlite.db.SupportSQLiteStatement access$createNewStatement(androidx.room.SharedSQLiteStatement)
+androidx.room.RoomDatabase: androidx.sqlite.db.SupportSQLiteStatement compileStatement(java.lang.String)
+com.sikandar.aurajot.domain.model.ChecklistItem: com.sikandar.aurajot.domain.model.ChecklistItem copy$default(com.sikandar.aurajot.domain.model.ChecklistItem,java.lang.String,java.lang.String,boolean,int,java.lang.Object)
+androidx.room.RoomDatabase: java.lang.Object runInTransaction(java.util.concurrent.Callable)
+androidx.compose.ui.platform.actionmodecallback.MenuItemOption: androidx.compose.ui.platform.actionmodecallback.MenuItemOption valueOf(java.lang.String)
+com.sikandar.aurajot.domain.model.TaskItem: java.lang.String getTitle()
+androidx.compose.foundation.text.input.internal.LocaleListHelper: void setHintLocales(android.view.inputmethod.EditorInfo,androidx.compose.ui.text.intl.LocaleList)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: android.view.WindowInsets createWindowInsetsInstance()
+androidx.room.SharedSQLiteStatement: void release(androidx.sqlite.db.SupportSQLiteStatement)
+androidx.room.RoomDatabase: java.util.Map getAutoMigrationSpecs()
+androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy: androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy[] values()
+androidx.room.RoomDatabase: android.database.Cursor query(java.lang.String,java.lang.Object[])
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$8: kotlin.Unit call()
+androidx.room.RoomDatabase: android.database.Cursor query(androidx.sqlite.db.SupportSQLiteQuery,android.os.CancellationSignal)
+com.sikandar.aurajot.data.local.entity.TaskEntity: boolean equals(java.lang.Object)
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api29Impl: void notifyViewTextChanged(android.view.contentcapture.ContentCaptureSession,android.view.autofill.AutofillId,java.lang.CharSequence)
+com.sikandar.aurajot.data.local.entity.TaskEntity: java.lang.Long component6()
+com.sikandar.aurajot.domain.model.TaskItem: java.lang.String getCategory()
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl: kotlinx.coroutines.flow.Flow getActiveNotes()
+androidx.compose.ui.text.platform.extensions.LocaleListHelperMethods: void setTextLocales(androidx.compose.ui.text.platform.AndroidTextPaint,androidx.compose.ui.text.intl.LocaleList)
+com.sikandar.aurajot.domain.model.PriorityLevel$Companion: PriorityLevel$Companion()
+androidx.core.view.ViewCompat$Api23Impl: int getScrollIndicators(android.view.View)
+com.sikandar.aurajot.domain.model.TaskItem: long component1()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performSelectRangeGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.SelectRangeGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager,kotlin.jvm.functions.Function1)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: long getMinDurationBetweenContentChangeMillis(android.view.accessibility.AccessibilityNodeInfo)
+androidx.compose.ui.window.Api33Impl: android.window.OnBackInvokedCallback createBackCallback(kotlin.jvm.functions.Function0)
+com.sikandar.aurajot.data.local.AuraJotDatabase$Companion: com.sikandar.aurajot.data.local.AuraJotDatabase getInstance(android.content.Context)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$13: void finalize()
+androidx.activity.EdgeToEdgeApi26: void setUp(androidx.activity.SystemBarStyle,androidx.activity.SystemBarStyle,android.view.Window,android.view.View,boolean,boolean)
+com.sikandar.aurajot.domain.model.TrashItem$TaskTrash: int hashCode()
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl: androidx.sqlite.db.SupportSQLiteDatabase access$202(com.sikandar.aurajot.data.local.AuraJotDatabase_Impl,androidx.sqlite.db.SupportSQLiteDatabase)
+androidx.room.Index$Order: androidx.room.Index$Order valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl20: void setOverriddenInsets(androidx.core.graphics.Insets[])
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl30)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.autofill.AutofillTree getAutofillTree()
+com.sikandar.aurajot.data.local.entity.NoteEntity: int hashCode()
+androidx.compose.ui.platform.WrapperRenderNodeLayerHelperMethods: void onDescendantInvalidated(androidx.compose.ui.platform.AndroidComposeView)
+androidx.room.RoomDatabase: void init(androidx.room.DatabaseConfiguration)
+androidx.room.EntityInsertionAdapter: void insert(java.lang.Iterable)
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: void setInsets(int,androidx.core.graphics.Insets)
+androidx.compose.ui.platform.AndroidComposeView: void setContentCaptureManager$ui_release(androidx.compose.ui.contentcapture.AndroidContentCaptureManager)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl: java.lang.Object emptyTrash(kotlin.coroutines.Continuation)
+com.sikandar.aurajot.domain.model.Note: boolean component7()
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl: java.lang.Object toggleTaskCompletion(long,boolean,long,kotlin.coroutines.Continuation)
+com.sikandar.aurajot.data.local.entity.TaskEntity: java.lang.Long getDueDateMillis()
+androidx.profileinstaller.ProfileVerifier$Api33Impl: android.content.pm.PackageInfo getPackageInfo(android.content.pm.PackageManager,android.content.Context)
+androidx.core.view.WindowInsetsCompat$Impl: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+androidx.compose.ui.text.android.CanvasCompatR: boolean quickReject(android.graphics.Canvas,android.graphics.Path)
+androidx.core.view.WindowInsetsCompat$Impl: void setRootViewData(androidx.core.graphics.Insets)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStopped(android.app.Activity)
+androidx.compose.ui.platform.AndroidComposeViewAssistHelperMethodsO: void setClassName(android.view.ViewStructure,android.view.View)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$2: java.lang.String createQuery()
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AccessibilityManager getAccessibilityManager()
+androidx.room.RoomDatabase: android.database.Cursor query$default(androidx.room.RoomDatabase,androidx.sqlite.db.SupportSQLiteQuery,android.os.CancellationSignal,int,java.lang.Object)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void setAccessibilityDataSensitive(android.view.accessibility.AccessibilityNodeInfo,boolean)
+androidx.compose.ui.platform.CalculateMatrixToWindowApi29: void calculateMatrixToWindow-EL8BTi8(android.view.View,float[])
+androidx.compose.ui.contentcapture.AndroidContentCaptureManager$TranslateStatus: androidx.compose.ui.contentcapture.AndroidContentCaptureManager$TranslateStatus[] values()
+androidx.compose.ui.graphics.WrapperVerificationHelperMethods: void setBlendMode-GB0RdKg(android.graphics.Paint,int)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performDeleteRangeGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.DeleteRangeGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.compose.ui.autofill.AutofillApi26Helper: android.view.autofill.AutofillId getAutofillId(android.view.ViewStructure)
+androidx.compose.ui.platform.AndroidComposeView: kotlin.jvm.functions.Function1 getConfigurationChangeObserver()
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl: java.lang.Object restoreTask(long,kotlin.coroutines.Continuation)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$10: NoteDao_Impl$10(com.sikandar.aurajot.data.local.dao.NoteDao_Impl,boolean,long)
+androidx.compose.ui.autofill.AutofillApi26Helper: java.lang.CharSequence textValue(android.view.autofill.AutofillValue)
+com.sikandar.aurajot.domain.model.Note: java.lang.String component5()
+com.sikandar.aurajot.domain.model.TaskItem: boolean isDeleted()
+androidx.compose.ui.platform.AndroidComposeView: void setDensity(androidx.compose.ui.unit.Density)
+androidx.profileinstaller.ProfileInstallerInitializer$Choreographer16Impl: void postFrameCallback(java.lang.Runnable)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$11: java.lang.Object call()
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedFling(android.view.View,float,float,boolean)
+com.sikandar.aurajot.data.local.entity.NoteEntity: long getCreatedAt()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$12: NoteDao_Impl$12(com.sikandar.aurajot.data.local.dao.NoteDao_Impl)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPreCreated(android.app.Activity,android.os.Bundle)
+androidx.compose.ui.state.ToggleableState: androidx.compose.ui.state.ToggleableState[] values()
+com.sikandar.aurajot.data.local.entity.NoteEntity: boolean component6()
+androidx.compose.ui.platform.AbstractComposeView: void getDisposeViewCompositionStrategy$annotations()
+androidx.compose.ui.autofill.AutofillApi26Helper: boolean isDate(android.view.autofill.AutofillValue)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: WindowInsetsCompat$BuilderImpl29(androidx.core.view.WindowInsetsCompat)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getTappableElementInsets()
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl: java.lang.Object permanentlyDeleteTask(long,kotlin.coroutines.Continuation)
+androidx.compose.ui.platform.AndroidComposeView: android.view.View findViewByAccessibilityIdTraversal(int)
+androidx.core.view.WindowInsetsCompat$Impl20: void loadReflectionField()
+androidx.compose.ui.platform.AndroidComposeView: void setConfigurationChangeObserver(kotlin.jvm.functions.Function1)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState valueOf(java.lang.String)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$8: kotlin.Unit call()
+androidx.compose.ui.graphics.CanvasZHelper: void enableZ(android.graphics.Canvas,boolean)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsetsIgnoringVisibility(int)
+androidx.core.view.ViewCompat$Api28Impl: void setAccessibilityPaneTitle(android.view.View,java.lang.CharSequence)
+androidx.compose.ui.text.android.CanvasCompatQ: void drawColor(android.graphics.Canvas,long,android.graphics.BlendMode)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$13: void finalize()
+androidx.core.view.ViewCompat$Api29Impl: android.view.View$AccessibilityDelegate getAccessibilityDelegate(android.view.View)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.OwnerSnapshotObserver getSnapshotObserver()
+androidx.compose.ui.window.PopupLayout: android.view.View getViewRoot()
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$3: java.lang.String createQuery()
+androidx.activity.OnBackPressedDispatcher$Api33Impl: android.window.OnBackInvokedCallback createOnBackInvokedCallback(kotlin.jvm.functions.Function0)
+androidx.core.view.WindowInsetsCompat$Impl: boolean isRound()
+kotlinx.coroutines.android.AndroidExceptionPreHandler: AndroidExceptionPreHandler()
+androidx.compose.ui.platform.ViewLayer: float getCameraDistancePx()
+androidx.room.RoomDatabase: void runInTransaction(java.lang.Runnable)
+com.sikandar.aurajot.data.local.entity.TaskEntity: java.lang.String toString()
+com.sikandar.aurajot.domain.model.TrashItem$TaskTrash: com.sikandar.aurajot.domain.model.TaskItem getTask()
+androidx.compose.ui.text.android.CanvasCompatQ: void drawDoubleRoundRect(android.graphics.Canvas,android.graphics.RectF,float,float,android.graphics.RectF,float,float,android.graphics.Paint)
+androidx.compose.ui.text.android.CanvasCompatM: void drawTextRun(android.graphics.Canvas,java.lang.CharSequence,int,int,int,int,float,float,boolean,android.graphics.Paint)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl: kotlinx.coroutines.flow.Flow getDeletedNotes()
+androidx.compose.ui.platform.ViewLayer: void setInvalidated(boolean)
+androidx.room.RoomDatabase: boolean isOpen()
+androidx.compose.ui.text.android.StaticLayoutFactory33: void setLineBreakConfig(android.text.StaticLayout$Builder,int,int)
+androidx.compose.ui.text.android.CanvasCompatS: void drawGlyphs(android.graphics.Canvas,int[],int,float[],int,int,android.graphics.fonts.Font,android.graphics.Paint)
+androidx.compose.ui.autofill.AutofillApi26Helper: boolean isToggle(android.view.autofill.AutofillValue)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$14: java.util.List call()
+androidx.compose.ui.platform.coreshims.ViewCompatShims$Api26Impl: android.view.autofill.AutofillId getAutofillId(android.view.View)
+androidx.compose.foundation.text.TextContextMenuItems: androidx.compose.foundation.text.TextContextMenuItems valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeViewStartDragAndDropN: boolean startDragAndDrop(android.view.View,androidx.compose.ui.draganddrop.DragAndDropTransferData,androidx.compose.ui.draganddrop.ComposeDragShadowBuilder)
+androidx.compose.foundation.text.input.internal.CursorAnchorInfoApi33Helper: android.view.inputmethod.CursorAnchorInfo$Builder setEditorBoundsInfo(android.view.inputmethod.CursorAnchorInfo$Builder,androidx.compose.ui.geometry.Rect)
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: WindowInsetsCompat$BuilderImpl30()
+androidx.compose.foundation.text.selection.SelectionHandleAnchor: androidx.compose.foundation.text.selection.SelectionHandleAnchor valueOf(java.lang.String)
+androidx.room.RoomDatabase: void setTransactionSuccessful()
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$1: void bind(androidx.sqlite.db.SupportSQLiteStatement,java.lang.Object)
+androidx.room.RoomDatabase: void assertNotMainThread()
+androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicMinMax: androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicMinMax valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.text.font.FontFamily$Resolver getFontFamilyResolver()
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State valueOf(java.lang.String)
+androidx.sqlite.db.framework.FrameworkSQLiteOpenHelper$OpenHelper$CallbackName: androidx.sqlite.db.framework.FrameworkSQLiteOpenHelper$OpenHelper$CallbackName valueOf(java.lang.String)
+androidx.emoji2.text.EmojiExclusions$EmojiExclusions_Api34: java.util.Set getExclusions()
+androidx.core.view.WindowInsetsCompat$Impl: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: void setStableInsets(androidx.core.graphics.Insets)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int fallbackOnLegacyTextField(android.view.inputmethod.HandwritingGesture,kotlin.jvm.functions.Function1)
+androidx.compose.foundation.layout.Direction: androidx.compose.foundation.layout.Direction[] values()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performInsertGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.InsertGesture,androidx.compose.foundation.text.input.internal.TextLayoutState,androidx.compose.ui.platform.ViewConfiguration)
+androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicWidthHeight: androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicWidthHeight[] values()
+androidx.compose.foundation.text.input.internal.undo.TextFieldEditUndoBehavior: androidx.compose.foundation.text.input.internal.undo.TextFieldEditUndoBehavior valueOf(java.lang.String)
+androidx.room.RoomDatabase: android.database.Cursor query(androidx.sqlite.db.SupportSQLiteQuery)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$5: java.lang.String createQuery()
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.focus.FocusOwner getFocusOwner()
+androidx.compose.animation.EnterExitState: androidx.compose.animation.EnterExitState valueOf(java.lang.String)
+com.sikandar.aurajot.domain.model.ChecklistItem: com.sikandar.aurajot.domain.model.ChecklistItem copy(java.lang.String,java.lang.String,boolean)
+com.sikandar.aurajot.presentation.screens.tasks.TaskFilter: com.sikandar.aurajot.presentation.screens.tasks.TaskFilter valueOf(java.lang.String)
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl$1: void onPreMigrate(androidx.sqlite.db.SupportSQLiteDatabase)
+androidx.compose.foundation.text.input.internal.undo.TextEditType: androidx.compose.foundation.text.input.internal.undo.TextEditType valueOf(java.lang.String)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$13: java.util.List call()
+androidx.compose.foundation.text.TextContextMenuItems: androidx.compose.foundation.text.TextContextMenuItems[] values()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: ReportFragment$LifecycleCallbacks()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: androidx.core.view.WindowInsetsCompat build()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int,boolean)
+com.sikandar.aurajot.domain.model.TrashItem$TaskTrash: java.lang.String getItemType()
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$2: NoteDao_Impl$2(com.sikandar.aurajot.data.local.dao.NoteDao_Impl,androidx.room.RoomDatabase)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl: java.lang.Object softDeleteTask(long,long,kotlin.coroutines.Continuation)
+androidx.core.view.WindowCompat$Api30Impl: void setDecorFitsSystemWindows(android.view.Window,boolean)
+kotlin.DeprecationLevel: kotlin.DeprecationLevel valueOf(java.lang.String)
+androidx.compose.foundation.layout.IntrinsicSize: androidx.compose.foundation.layout.IntrinsicSize valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl: int hashCode()
+androidx.compose.ui.graphics.layer.ViewLayer: void setInvalidated(boolean)
+androidx.compose.animation.core.RepeatMode: androidx.compose.animation.core.RepeatMode valueOf(java.lang.String)
+com.sikandar.aurajot.data.local.entity.TaskEntity: com.sikandar.aurajot.data.local.entity.TaskEntity copy(long,java.lang.String,java.lang.String,boolean,java.lang.String,java.lang.Long,java.lang.String,java.lang.String,boolean,long,long,java.lang.Long)
+androidx.compose.ui.unit.LayoutDirection: androidx.compose.ui.unit.LayoutDirection[] values()
+com.sikandar.aurajot.domain.model.Note: java.lang.String component4()
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.graphics.path.PathIteratorPreApi34Impl: long createInternalPathIterator(android.graphics.Path,int,float)
+androidx.compose.foundation.layout.Direction: androidx.compose.foundation.layout.Direction valueOf(java.lang.String)
+androidx.graphics.path.ConicConverter: int internalConicToQuadratics(float[],int,float[],float,float)
+androidx.compose.ui.autofill.AutofillType: androidx.compose.ui.autofill.AutofillType valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+androidx.activity.Api34Impl: float touchY(android.window.BackEvent)
+androidx.compose.ui.platform.AndroidComposeView: void setShowLayoutBounds(boolean)
+androidx.compose.ui.platform.AndroidCompositionLocals_androidKt: androidx.compose.runtime.ProvidableCompositionLocal getLocalLifecycleOwner()
+com.sikandar.aurajot.domain.model.TaskItem: long component11()
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.window.PopupPositionProvider getPositionProvider()
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$3: TaskDao_Impl$3(com.sikandar.aurajot.data.local.dao.TaskDao_Impl,androidx.room.RoomDatabase)
+androidx.compose.ui.autofill.AutofillApi23Helper: android.view.ViewStructure newChild(android.view.ViewStructure,int)
+androidx.core.view.WindowInsetsCompat$Impl: void copyRootViewBounds(android.view.View)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: androidx.core.view.accessibility.AccessibilityNodeInfoCompat$CollectionItemInfoCompat buildCollectionItemInfoCompat(boolean,int,int,int,int,boolean,java.lang.String,java.lang.String)
+androidx.compose.ui.autofill.AutofillApi23Helper: void setDimens(android.view.ViewStructure,int,int,int,int,int,int)
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl: com.sikandar.aurajot.data.local.dao.TaskDao getTaskDao()
+com.sikandar.aurajot.domain.model.Note: java.lang.String getTitle()
+androidx.compose.ui.text.style.ResolvedTextDirection: androidx.compose.ui.text.style.ResolvedTextDirection[] values()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+com.sikandar.aurajot.domain.model.TaskItem: java.lang.String getNotes()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPrePaused(android.app.Activity)
+androidx.core.view.ViewCompat$Api30Impl: boolean isImportantForContentCapture(android.view.View)
+androidx.compose.ui.platform.DrawChildContainer: int getChildCount()
+androidx.compose.foundation.text.input.internal.Api34LegacyPerformHandwritingGestureImpl: void performHandwritingGesture(androidx.compose.foundation.text.LegacyTextFieldState,androidx.compose.foundation.text.selection.TextFieldSelectionManager,android.view.inputmethod.HandwritingGesture,androidx.compose.ui.platform.ViewConfiguration,java.util.concurrent.Executor,java.util.function.IntConsumer,kotlin.jvm.functions.Function1)
+com.sikandar.aurajot.domain.model.TrashItem: TrashItem()
+androidx.core.view.ViewCompat$Api29Impl: void saveAttributeDataForStyleable(android.view.View,android.content.Context,int[],android.util.AttributeSet,android.content.res.TypedArray,int,int)
+com.sikandar.aurajot.data.local.dao.NoteDao: java.lang.Object softDeleteNote(long,long,kotlin.coroutines.Continuation)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$15: java.lang.Object call()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.modifier.ModifierLocalManager getModifierLocalManager()
+androidx.compose.ui.platform.AbstractComposeView: void setTransitionGroup(boolean)
+androidx.compose.ui.platform.actionmodecallback.MenuItemOption: androidx.compose.ui.platform.actionmodecallback.MenuItemOption[] values()
+androidx.compose.ui.platform.AndroidComposeView: void setLayoutDirection(androidx.compose.ui.unit.LayoutDirection)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidAccessibilityManager getAccessibilityManager()
+androidx.room.EntityInsertionAdapter: java.util.List insertAndReturnIdsList(java.util.Collection)
+androidx.core.view.ViewCompat$Api28Impl: java.lang.CharSequence getAccessibilityPaneTitle(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl: boolean equals(java.lang.Object)
+androidx.compose.ui.platform.TextToolbarHelperMethods: void invalidateContentRect(android.view.ActionMode)
+com.sikandar.aurajot.data.local.entity.TaskEntity: long component11()
+androidx.compose.foundation.MutatePriority: androidx.compose.foundation.MutatePriority[] values()
+com.sikandar.aurajot.domain.model.ChecklistItem: java.lang.String toString()
+com.sikandar.aurajot.data.local.entity.TaskEntity: com.sikandar.aurajot.data.local.entity.TaskEntity copy$default(com.sikandar.aurajot.data.local.entity.TaskEntity,long,java.lang.String,java.lang.String,boolean,java.lang.String,java.lang.Long,java.lang.String,java.lang.String,boolean,long,long,java.lang.Long,int,java.lang.Object)
+com.sikandar.aurajot.data.local.AuraJotDatabase: com.sikandar.aurajot.data.local.dao.NoteDao getNoteDao()
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: androidx.core.view.WindowInsetsCompat build()
+androidx.compose.ui.platform.RenderNodeVerificationHelper23: void destroyDisplayListData(android.view.RenderNode)
+androidx.compose.material3.tokens.TypographyKeyTokens: androidx.compose.material3.tokens.TypographyKeyTokens valueOf(java.lang.String)
+com.sikandar.aurajot.domain.model.TrashItem$TaskTrash: TrashItem$TaskTrash(com.sikandar.aurajot.domain.model.TaskItem)
+androidx.compose.material3.tokens.ColorSchemeKeyTokens: androidx.compose.material3.tokens.ColorSchemeKeyTokens[] values()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewDeleteGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.DeleteGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+com.sikandar.aurajot.domain.model.TrashItem$TaskTrash: com.sikandar.aurajot.domain.model.TrashItem$TaskTrash copy(com.sikandar.aurajot.domain.model.TaskItem)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$6: TaskDao_Impl$6(com.sikandar.aurajot.data.local.dao.TaskDao_Impl,androidx.room.RoomDatabase)
+com.sikandar.aurajot.domain.model.ChecklistItem: java.lang.String getText()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostStarted(android.app.Activity)
+androidx.compose.ui.layout.IntrinsicWidthHeight: androidx.compose.ui.layout.IntrinsicWidthHeight[] values()
+com.sikandar.aurajot.domain.model.Note: java.lang.Long component10()
+com.sikandar.aurajot.domain.model.TrashItem$TaskTrash: java.lang.String getTitle()
+androidx.room.EntityInsertionAdapter: java.lang.Long[] insertAndReturnIdsArrayBox(java.lang.Object[])
+androidx.core.graphics.drawable.IconCompat$Api28Impl: int getResId(java.lang.Object)
+androidx.compose.ui.window.SecureFlagPolicy: androidx.compose.ui.window.SecureFlagPolicy valueOf(java.lang.String)
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State[] values()
+androidx.navigation.NavControllerViewModel: NavControllerViewModel()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityPaused(android.app.Activity)
+androidx.compose.ui.text.AnnotationType: androidx.compose.ui.text.AnnotationType valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewDeleteGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.DeleteGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager)
+androidx.emoji2.text.EmojiCompatInitializer: EmojiCompatInitializer()
+com.sikandar.aurajot.data.local.dao.TaskDao: java.lang.Object permanentlyDeleteTask(long,kotlin.coroutines.Continuation)
+com.sikandar.aurajot.domain.model.TrashItem$NoteTrash: java.lang.String toString()
+androidx.core.view.ViewCompat$Api28Impl: void setScreenReaderFocusable(android.view.View,boolean)
+androidx.compose.animation.core.AnimationEndReason: androidx.compose.animation.core.AnimationEndReason valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: boolean getHasPendingMeasureOrLayout()
+androidx.compose.ui.platform.RenderNodeVerificationHelper24: void discardDisplayList(android.view.RenderNode)
+androidx.compose.material3.tokens.ColorSchemeKeyTokens: androidx.compose.material3.tokens.ColorSchemeKeyTokens valueOf(java.lang.String)
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.unit.LayoutDirection getParentLayoutDirection()
+androidx.compose.ui.text.android.CanvasCompatQ: void enableZ(android.graphics.Canvas)
+androidx.compose.ui.platform.coreshims.ViewCompatShims$Api30Impl: void setImportantForContentCapture(android.view.View,int)
+androidx.compose.ui.platform.coreshims.ViewCompatShims$Api29Impl: android.view.contentcapture.ContentCaptureSession getContentCaptureSession(android.view.View)
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl: java.util.List access$100(com.sikandar.aurajot.data.local.AuraJotDatabase_Impl)
+androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicWidthHeight: androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicWidthHeight valueOf(java.lang.String)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$1: java.lang.String createQuery()
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$1: void bind(androidx.sqlite.db.SupportSQLiteStatement,com.sikandar.aurajot.data.local.entity.TaskEntity)
+androidx.compose.ui.window.PopupLayout: kotlin.jvm.functions.Function2 getContent()
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.unit.IntSize getPopupContentSize-bOM6tXw()
+androidx.graphics.path.PathIteratorPreApi34Impl: int internalPathIteratorNext(long,float[],int)
+androidx.compose.ui.text.android.CanvasCompatQ: void drawRenderNode(android.graphics.Canvas,android.graphics.RenderNode)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.compose.ui.platform.RenderNodeVerificationHelper28: void setAmbientShadowColor(android.view.RenderNode,int)
+com.sikandar.aurajot.domain.model.PriorityLevel$Companion: com.sikandar.aurajot.domain.model.PriorityLevel fromString(java.lang.String)
+com.sikandar.aurajot.domain.model.PriorityLevel: com.sikandar.aurajot.domain.model.PriorityLevel[] $values()
+androidx.compose.ui.platform.RenderNodeVerificationHelper28: int getSpotShadowColor(android.view.RenderNode)
+androidx.compose.ui.text.android.Paint29: void getTextBounds(android.graphics.Paint,java.lang.CharSequence,int,int,android.graphics.Rect)
+androidx.activity.EdgeToEdgeApi28: void adjustLayoutInDisplayCutoutMode(android.view.Window)
+com.sikandar.aurajot.data.local.AuraJotDatabase$Companion: AuraJotDatabase$Companion()
+com.sikandar.aurajot.data.local.entity.NoteEntity: boolean isPinned()
+androidx.compose.ui.platform.coreshims.ViewStructureCompat$Api23Impl: void setTextStyle(android.view.ViewStructure,float,int,int,int)
+androidx.core.graphics.drawable.IconCompat$Api23Impl: android.graphics.drawable.Icon toIcon(androidx.core.graphics.drawable.IconCompat,android.content.Context)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl: java.lang.Object insertOrUpdateTask(com.sikandar.aurajot.data.local.entity.TaskEntity,kotlin.coroutines.Continuation)
+androidx.core.view.ViewCompat$Api28Impl: void addOnUnhandledKeyEventListener(android.view.View,androidx.core.view.ViewCompat$OnUnhandledKeyEventListenerCompat)
+com.sikandar.aurajot.data.local.dao.NoteDao: java.lang.Object insertOrUpdateNote(com.sikandar.aurajot.data.local.entity.NoteEntity,kotlin.coroutines.Continuation)
+com.sikandar.aurajot.data.local.AuraJotDatabase: com.sikandar.aurajot.data.local.AuraJotDatabase access$getINSTANCE$cp()
+kotlinx.coroutines.android.AndroidDispatcherFactory: AndroidDispatcherFactory()
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl: java.lang.Object getNoteById(long,kotlin.coroutines.Continuation)
+androidx.compose.ui.text.android.StaticLayoutFactory23: android.text.StaticLayout create(androidx.compose.ui.text.android.StaticLayoutParams)
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType[] values()
+androidx.compose.ui.window.PopupLayout: java.lang.String getTestTag()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void setRequestInitialAccessibilityFocus(android.view.accessibility.AccessibilityNodeInfo,boolean)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setTappableElementInsets(androidx.core.graphics.Insets)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$7: java.lang.Long call()
+androidx.compose.ui.platform.AndroidViewsHandler: java.util.HashMap getLayoutNodeToHolder()
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl: java.util.List access$000(com.sikandar.aurajot.data.local.AuraJotDatabase_Impl)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$15: NoteDao_Impl$15(com.sikandar.aurajot.data.local.dao.NoteDao_Impl,androidx.room.RoomSQLiteQuery)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$11: kotlin.Unit call()
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl: java.lang.Object insertOrUpdateNote(com.sikandar.aurajot.data.local.entity.NoteEntity,kotlin.coroutines.Continuation)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewSelectGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.SelectGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager)
+androidx.core.view.ViewCompat$Api21Impl: java.lang.String getTransitionName(android.view.View)
+androidx.compose.ui.graphics.layer.RenderNodeVerificationHelper: void setRenderEffect(android.graphics.RenderNode,androidx.compose.ui.graphics.RenderEffect)
+com.sikandar.aurajot.presentation.components.RichFormatAction: com.sikandar.aurajot.presentation.components.RichFormatAction[] values()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void performSelectionOnLegacyTextField-8ffj60Q(long,androidx.compose.foundation.text.selection.TextFieldSelectionManager,kotlin.jvm.functions.Function1)
+androidx.compose.ui.autofill.AutofillApi23Helper: int addChildCount(android.view.ViewStructure,int)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api30Impl: java.lang.CharSequence getStateDescription(android.view.accessibility.AccessibilityNodeInfo)
+com.sikandar.aurajot.data.local.entity.TaskEntity: long getCreatedAt()
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isRound()
+androidx.compose.ui.platform.MotionEventVerifierApi29: boolean isValidMotionEvent(android.view.MotionEvent,int)
+com.sikandar.aurajot.data.local.entity.TaskEntity: java.lang.String getChecklistRaw()
+androidx.compose.ui.platform.AndroidComposeView: void setFontFamilyResolver(androidx.compose.ui.text.font.FontFamily$Resolver)
+com.sikandar.aurajot.domain.model.Note: boolean equals(java.lang.Object)
+androidx.compose.foundation.text.input.internal.EditorInfoApi34: void setHandwritingGestures(android.view.inputmethod.EditorInfo)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$14: TaskDao_Impl$14(com.sikandar.aurajot.data.local.dao.TaskDao_Impl,androidx.room.RoomSQLiteQuery)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.layout.Placeable$PlacementScope getPlacementScope()
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+androidx.activity.EdgeToEdgeApi23: void setUp(androidx.activity.SystemBarStyle,androidx.activity.SystemBarStyle,android.view.Window,android.view.View,boolean,boolean)
+androidx.compose.ui.platform.AndroidComposeView: long getLastMatrixRecalculationAnimationTime$ui_release()
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$12: kotlin.Unit call()
+com.sikandar.aurajot.domain.model.TaskItem: TaskItem(long,java.lang.String,java.lang.String,boolean,com.sikandar.aurajot.domain.model.PriorityLevel,java.lang.Long,java.lang.String,java.util.List,boolean,long,long,java.lang.Long,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction: androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction[] values()
+kotlin.LazyThreadSafetyMode: kotlin.LazyThreadSafetyMode valueOf(java.lang.String)
+androidx.compose.ui.text.android.CanvasCompatO: boolean clipOutRect(android.graphics.Canvas,float,float,float,float)
+androidx.compose.ui.platform.AndroidComposeViewTranslationCallbackS: void setViewTranslationCallback(android.view.View)
+com.sikandar.aurajot.domain.model.Note: long component9()
+androidx.core.view.ViewCompat$Api23Impl: void setScrollIndicators(android.view.View,int)
+androidx.compose.ui.platform.AndroidViewConfigurationApi34: float getScaledHandwritingSlop(android.view.ViewConfiguration)
+androidx.compose.ui.layout.IntrinsicMinMax: androidx.compose.ui.layout.IntrinsicMinMax valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getVisibleInsets(android.view.View)
+androidx.compose.ui.text.android.CanvasCompatM: void drawTextRun(android.graphics.Canvas,char[],int,int,int,int,float,float,boolean,android.graphics.Paint)
+androidx.compose.ui.text.font.TypefaceHelperMethodsApi28: android.graphics.Typeface create(android.graphics.Typeface,int,boolean)
+com.sikandar.aurajot.domain.model.PriorityLevel: java.lang.String getLabel()
+androidx.compose.ui.platform.ViewLayer: androidx.compose.ui.graphics.Path getManualClipPath()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemGestureInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.node.LayoutNode$UsageByParent: androidx.compose.ui.node.LayoutNode$UsageByParent[] values()
+com.sikandar.aurajot.domain.model.Note: long component8()
+com.sikandar.aurajot.data.local.dao.TaskDao: java.lang.Object getTaskById(long,kotlin.coroutines.Continuation)
+androidx.compose.ui.platform.AbstractComposeView: void setShowLayoutBounds(boolean)
+com.sikandar.aurajot.domain.model.TrashItem$TaskTrash: long getDeletedAt()
+androidx.compose.ui.contentcapture.AndroidContentCaptureManager$ViewTranslationHelperMethods: void onCreateVirtualViewTranslationRequests(androidx.compose.ui.contentcapture.AndroidContentCaptureManager,long[],int[],java.util.function.Consumer)
+androidx.core.view.ViewCompat$Api23Impl: androidx.core.view.WindowInsetsCompat getRootWindowInsets(android.view.View)
+androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicWidthHeight: androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicWidthHeight valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api28Impl: void setAccessibilityHeading(android.view.View,boolean)
+com.sikandar.aurajot.domain.model.TaskItem: long getUpdatedAt()
+androidx.compose.ui.text.android.StaticLayoutFactory26: void setJustificationMode(android.text.StaticLayout$Builder,int)
+kotlin.LazyThreadSafetyMode: kotlin.LazyThreadSafetyMode[] values()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.ClipboardManager getClipboardManager()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+androidx.compose.ui.platform.coreshims.ViewStructureCompat$Api23Impl: void setDimens(android.view.ViewStructure,int,int,int,int,int,int)
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl$1: void dropAllTables(androidx.sqlite.db.SupportSQLiteDatabase)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getStableInsets()
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl: com.sikandar.aurajot.data.local.dao.NoteDao getNoteDao()
+com.sikandar.aurajot.data.local.dao.TaskDao: kotlinx.coroutines.flow.Flow getDeletedTasks()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.input.pointer.PointerIconService getPointerIconService()
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$1: void bind(androidx.sqlite.db.SupportSQLiteStatement,java.lang.Object)
+androidx.room.EntityInsertionAdapter: long[] insertAndReturnIdsArray(java.lang.Object[])
+com.sikandar.aurajot.data.local.entity.NoteEntity: java.lang.String toString()
+com.sikandar.aurajot.data.local.AuraJotDatabase$Companion: AuraJotDatabase$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.compose.animation.core.MutatePriority: androidx.compose.animation.core.MutatePriority[] values()
+androidx.compose.animation.EnterExitState: androidx.compose.animation.EnterExitState[] values()
+androidx.compose.ui.platform.coreshims.ViewStructureCompat$Api23Impl: void setText(android.view.ViewStructure,java.lang.CharSequence)
+com.sikandar.aurajot.domain.model.TrashItem$TaskTrash: boolean equals(java.lang.Object)
+androidx.compose.ui.text.android.BoringLayoutFactoryDefault: android.text.BoringLayout$Metrics isBoring(java.lang.CharSequence,android.text.TextPaint,android.text.TextDirectionHeuristic)
+androidx.core.view.ViewConfigurationCompat$Api26Impl: float getScaledHorizontalScrollFactor(android.view.ViewConfiguration)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: java.lang.CharSequence getContainerTitle(android.view.accessibility.AccessibilityNodeInfo)
+androidx.compose.ui.platform.ViewLayerVerificationHelper28: void setOutlineAmbientShadowColor(android.view.View,int)
+androidx.compose.ui.graphics.layer.ViewLayerVerificationHelper31: void setRenderEffect(android.view.View,androidx.compose.ui.graphics.RenderEffect)
+androidx.navigation.serialization.RouteBuilder$ParamType: androidx.navigation.serialization.RouteBuilder$ParamType valueOf(java.lang.String)
+kotlinx.coroutines.selects.TrySelectDetailedResult: kotlinx.coroutines.selects.TrySelectDetailedResult[] values()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: java.lang.String getUniqueId(android.view.accessibility.AccessibilityNodeInfo)
+androidx.compose.ui.graphics.layer.ViewLayerVerificationHelper28: void setOutlineAmbientShadowColor(android.view.View,int)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$9: kotlin.Unit call()
+androidx.compose.runtime.Recomposer$State: androidx.compose.runtime.Recomposer$State[] values()
+com.sikandar.aurajot.domain.model.ChecklistItem: ChecklistItem(java.lang.String,java.lang.String,boolean,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.room.EntityInsertionAdapter: void insert(java.lang.Object)
+androidx.core.graphics.drawable.IconCompat$Api28Impl: int getType(java.lang.Object)
+androidx.core.view.ViewCompat$Api21Impl: void callCompatInsetAnimationCallback(android.view.WindowInsets,android.view.View)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl: java.util.List getRequiredConverters()
+androidx.compose.foundation.Api31Impl: android.widget.EdgeEffect create(android.content.Context,android.util.AttributeSet)
+androidx.core.graphics.drawable.IconCompat$Api23Impl: android.graphics.drawable.Drawable loadDrawable(android.graphics.drawable.Icon,android.content.Context)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void performDeletionOnLegacyTextField-vJH6DeI(long,androidx.compose.ui.text.AnnotatedString,boolean,kotlin.jvm.functions.Function1)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$8: java.lang.Object call()
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootViewData(androidx.core.graphics.Insets)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+com.sikandar.aurajot.data.local.entity.NoteEntity: NoteEntity(long,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean,boolean,long,long,java.lang.Long)
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api29Impl: android.view.ViewStructure newViewStructure(android.view.contentcapture.ContentCaptureSession,android.view.View)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl: java.lang.Object permanentlyDeleteNote(long,kotlin.coroutines.Continuation)
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api29Impl: void notifyViewsDisappeared(android.view.contentcapture.ContentCaptureSession,android.view.autofill.AutofillId,long[])
+androidx.core.view.ViewCompat$Api21Impl: boolean isNestedScrollingEnabled(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl30: void copyRootViewBounds(android.view.View)
+androidx.compose.ui.text.android.BoringLayoutFactoryDefault: android.text.BoringLayout create(java.lang.CharSequence,android.text.TextPaint,int,android.text.Layout$Alignment,float,float,android.text.BoringLayout$Metrics,boolean,android.text.TextUtils$TruncateAt,int)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl: void clearAllTables()
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$14: java.util.List call()
+androidx.compose.ui.platform.ViewLayer: void setCameraDistancePx(float)
+androidx.navigation.compose.BackStackEntryIdViewModel: BackStackEntryIdViewModel(androidx.lifecycle.SavedStateHandle)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$12: kotlin.Unit call()
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$7: java.lang.Object call()
+androidx.compose.ui.graphics.TileModeVerificationHelper: android.graphics.Shader$TileMode getFrameworkTileModeDecal()
+androidx.core.view.ViewCompat$Api21Impl: float getElevation(android.view.View)
+androidx.compose.ui.platform.AndroidComposeViewAccessibilityDelegateCompat$Api29Impl: void addPageActions(androidx.core.view.accessibility.AccessibilityNodeInfoCompat,androidx.compose.ui.semantics.SemanticsNode)
+androidx.core.graphics.drawable.IconCompat: IconCompat()
+androidx.core.view.WindowInsetsCompat$Impl21: void setStableInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.platform.ComposeView: void getShouldCreateCompositionOnAttachedToWindow$annotations()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.unit.LayoutDirection getLayoutDirection()
+com.sikandar.aurajot.domain.model.ChecklistItem: java.lang.String getId()
+com.sikandar.aurajot.domain.model.TrashItem: TrashItem(kotlin.jvm.internal.DefaultConstructorMarker)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl: java.lang.Object restoreNote(long,kotlin.coroutines.Continuation)
+androidx.core.view.ViewCompat$Api29Impl: void setContentCaptureSession(android.view.View,androidx.core.view.contentcapture.ContentCaptureSessionCompat)
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$14: java.lang.Object call()
+androidx.core.view.WindowInsetsCompat$Impl28: int hashCode()
+com.sikandar.aurajot.domain.model.Note: long getId()
+androidx.compose.ui.window.PopupLayout: void setTestTag(java.lang.String)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performJoinOrSplitGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.JoinOrSplitGesture,androidx.compose.foundation.text.input.internal.TextLayoutState,androidx.compose.ui.platform.ViewConfiguration)
+androidx.compose.ui.window.PopupLayout: void setPositionProvider(androidx.compose.ui.window.PopupPositionProvider)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$10: java.lang.Object call()
+androidx.compose.ui.autofill.AutofillApi26Helper: boolean isText(android.view.autofill.AutofillValue)
+com.sikandar.aurajot.domain.model.TaskItem: long getCreatedAt()
+com.sikandar.aurajot.domain.model.TaskItem: java.lang.Long component6()
+androidx.room.RoomDatabase: void getMDatabase$annotations()
+com.sikandar.aurajot.data.local.dao.NoteDao: java.lang.Object permanentlyDeleteNote(long,kotlin.coroutines.Continuation)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$12: java.lang.Object call()
+androidx.compose.foundation.layout.IntrinsicSize: androidx.compose.foundation.layout.IntrinsicSize[] values()
+androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicMinMax: androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicMinMax[] values()
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$11: TaskDao_Impl$11(com.sikandar.aurajot.data.local.dao.TaskDao_Impl,long)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: java.lang.String getCollectionItemRowTitle(java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+androidx.core.view.ViewCompat$Api21Impl: void setBackgroundTintList(android.view.View,android.content.res.ColorStateList)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: int getSafeInsetLeft(android.view.DisplayCutout)
+com.sikandar.aurajot.domain.model.TaskItem: java.lang.String component2()
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$11: java.lang.Object call()
+com.sikandar.aurajot.domain.model.TaskItem: int hashCode()
+androidx.room.RoomDatabase$JournalMode: androidx.room.RoomDatabase$JournalMode[] values()
+androidx.compose.ui.platform.AndroidComposeViewTranslationCallbackS: void clearViewTranslationCallback(android.view.View)
+androidx.compose.ui.window.PopupLayout: void setLayoutDirection(int)
+androidx.room.RoomDatabase: java.util.Set getRequiredAutoMigrationSpecs()
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api29Impl: void notifyViewAppeared(android.view.contentcapture.ContentCaptureSession,android.view.ViewStructure)
+com.sikandar.aurajot.domain.model.Note: java.lang.String getContent()
+androidx.activity.Api34Impl: float touchX(android.window.BackEvent)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewSelectRangeGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.SelectRangeGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: int getSafeInsetRight(android.view.DisplayCutout)
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+com.sikandar.aurajot.data.local.dao.TaskDao$DefaultImpls: java.lang.Object toggleTaskCompletion$default(com.sikandar.aurajot.data.local.dao.TaskDao,long,boolean,long,kotlin.coroutines.Continuation,int,java.lang.Object)
+androidx.compose.ui.window.PopupLayout: boolean getCanCalculatePosition()
+kotlinx.coroutines.android.AndroidExceptionPreHandler: void handleException(kotlin.coroutines.CoroutineContext,java.lang.Throwable)
+com.sikandar.aurajot.data.local.entity.TaskEntity: boolean component9()
+com.sikandar.aurajot.data.local.entity.TaskEntity: java.lang.String component7()
+androidx.compose.ui.window.SecureFlagPolicy: androidx.compose.ui.window.SecureFlagPolicy[] values()
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons[] values()
+androidx.core.view.WindowInsetsCompat$Impl30: boolean isVisible(int)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getInsets(int)
+com.sikandar.aurajot.domain.model.Note: boolean isPinned()
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$11: kotlin.Unit call()
+androidx.compose.ui.text.android.BoringLayoutFactory33: android.text.BoringLayout$Metrics isBoring(java.lang.CharSequence,android.text.TextPaint,android.text.TextDirectionHeuristic)
+androidx.compose.animation.core.MutatePriority: androidx.compose.animation.core.MutatePriority valueOf(java.lang.String)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: void setTextSelectable(android.view.accessibility.AccessibilityNodeInfo,boolean)
+androidx.compose.ui.text.android.CanvasCompatO: boolean clipOutRect(android.graphics.Canvas,android.graphics.Rect)
+com.sikandar.aurajot.domain.model.TaskItem: com.sikandar.aurajot.domain.model.PriorityLevel getPriority()
+androidx.compose.ui.text.android.CanvasCompatQ: void drawColor(android.graphics.Canvas,int,android.graphics.BlendMode)
+androidx.compose.ui.node.LayoutNode$UsageByParent: androidx.compose.ui.node.LayoutNode$UsageByParent valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.LayoutNodeDrawScope getSharedDrawScope()
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.profileinstaller.ProfileInstallerInitializer$Handler28Impl: android.os.Handler createAsync(android.os.Looper)
+androidx.core.view.DisplayCutoutCompat$Api30Impl: android.graphics.Insets getWaterfallInsets(android.view.DisplayCutout)
+androidx.compose.ui.platform.AndroidComposeView: void getShowLayoutBounds$annotations()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl: java.lang.Object getTaskById(long,kotlin.coroutines.Continuation)
+androidx.compose.foundation.text.input.internal.Api34LegacyPerformHandwritingGestureImpl: boolean previewHandwritingGesture(androidx.compose.foundation.text.LegacyTextFieldState,androidx.compose.foundation.text.selection.TextFieldSelectionManager,android.view.inputmethod.PreviewableHandwritingGesture,android.os.CancellationSignal)
+com.sikandar.aurajot.data.local.entity.TaskEntity: long component10()
+com.sikandar.aurajot.data.local.entity.NoteEntity: long getUpdatedAt()
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: void onActivityCreated(android.app.Activity,android.os.Bundle)
+com.sikandar.aurajot.domain.model.Note: java.lang.Long getDeletedAt()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewSelectGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.SelectGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int toTextGranularity-NUwxegE(int)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl: java.lang.Object emptyTrash(kotlin.coroutines.Continuation)
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl$1: void onPostMigrate(androidx.sqlite.db.SupportSQLiteDatabase)
+androidx.compose.ui.autofill.AutofillApi23Helper: void setId(android.view.ViewStructure,int,java.lang.String,java.lang.String,java.lang.String)
+androidx.room.RoomDatabase: boolean isMainThread$room_runtime_release()
+androidx.compose.ui.graphics.ColorSpaceVerificationHelper: android.graphics.ColorSpace androidColorSpace(androidx.compose.ui.graphics.colorspace.ColorSpace)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemWindowInsets()
+androidx.lifecycle.LegacySavedStateHandleController$OnRecreation: LegacySavedStateHandleController$OnRecreation()
+com.sikandar.aurajot.domain.model.Note: Note(long,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean,boolean,long,long,java.lang.Long,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.compose.ui.contentcapture.AndroidContentCaptureManager$TranslateStatus: androidx.compose.ui.contentcapture.AndroidContentCaptureManager$TranslateStatus valueOf(java.lang.String)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$9: NoteDao_Impl$9(com.sikandar.aurajot.data.local.dao.NoteDao_Impl,long)
+com.sikandar.aurajot.domain.model.ChecklistItem: java.lang.String component2()
+com.sikandar.aurajot.data.local.entity.NoteEntity: boolean component7()
+com.sikandar.aurajot.domain.model.Note: java.lang.String component3()
+com.sikandar.aurajot.data.local.entity.NoteEntity: java.lang.String getColorHex()
+com.sikandar.aurajot.domain.model.TaskItem: com.sikandar.aurajot.domain.model.TaskItem copy(long,java.lang.String,java.lang.String,boolean,com.sikandar.aurajot.domain.model.PriorityLevel,java.lang.Long,java.lang.String,java.util.List,boolean,long,long,java.lang.Long)
+kotlin.time.DurationUnit: kotlin.time.DurationUnit[] values()
+androidx.compose.ui.text.AnnotationType: androidx.compose.ui.text.AnnotationType[] values()
+androidx.core.view.ViewCompat$Api21Impl: boolean isImportantForAccessibility(android.view.View)
+androidx.core.view.ViewCompat$Api21Impl: void stopNestedScroll(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getTappableElementInsets()
+androidx.compose.ui.window.PopupLayout: android.view.WindowManager$LayoutParams getParams$ui_release()
+androidx.compose.foundation.text.KeyCommand: androidx.compose.foundation.text.KeyCommand valueOf(java.lang.String)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewDeleteRangeGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.DeleteRangeGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.core.view.ViewCompat$Api29Impl: void setSystemGestureExclusionRects(android.view.View,java.util.List)
+androidx.compose.material3.tokens.ShapeKeyTokens: androidx.compose.material3.tokens.ShapeKeyTokens valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setStableInsets(androidx.core.graphics.Insets)
+com.sikandar.aurajot.presentation.screens.trash.TrashFilter: com.sikandar.aurajot.presentation.screens.trash.TrashFilter valueOf(java.lang.String)
+com.sikandar.aurajot.domain.model.TrashItem$TaskTrash: long getId()
+com.sikandar.aurajot.domain.model.ChecklistItem: ChecklistItem(java.lang.String,java.lang.String,boolean)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$6: NoteDao_Impl$6(com.sikandar.aurajot.data.local.dao.NoteDao_Impl,androidx.room.RoomDatabase)
+androidx.activity.OnBackPressedDispatcher$Api34Impl: android.window.OnBackInvokedCallback createOnBackAnimationCallback(kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0)
+androidx.compose.material.ripple.RippleHostView: void setRippleState$lambda$2(androidx.compose.material.ripple.RippleHostView)
+androidx.compose.ui.window.PopupLayout: boolean getShouldCreateCompositionOnAttachedToWindow()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setStableInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.node.LayoutNode$LayoutState: androidx.compose.ui.node.LayoutNode$LayoutState[] values()
+androidx.compose.animation.core.AnimationEndReason: androidx.compose.animation.core.AnimationEndReason[] values()
+com.sikandar.aurajot.data.local.entity.TaskEntity: java.lang.String component5()
+com.sikandar.aurajot.domain.model.PriorityLevel: com.sikandar.aurajot.domain.model.PriorityLevel valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.LayoutNode getRoot()
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl: TaskDao_Impl(androidx.room.RoomDatabase)
+androidx.compose.ui.platform.TextToolbarStatus: androidx.compose.ui.platform.TextToolbarStatus valueOf(java.lang.String)
+androidx.compose.ui.platform.ViewLayerVerificationHelper31: void setRenderEffect(android.view.View,androidx.compose.ui.graphics.RenderEffect)
+androidx.activity.Api34Impl: float progress(android.window.BackEvent)
+com.sikandar.aurajot.domain.model.TrashItem$TaskTrash: java.lang.String toString()
+androidx.core.app.NotificationManagerCompat$Api24Impl: boolean areNotificationsEnabled(android.app.NotificationManager)
+androidx.compose.foundation.text.selection.SelectionHandleAnchor: androidx.compose.foundation.text.selection.SelectionHandleAnchor[] values()
+androidx.core.os.BundleApi21ImplKt: void putSize(android.os.Bundle,java.lang.String,android.util.Size)
+androidx.compose.ui.text.platform.extensions.LocaleListHelperMethods: java.lang.Object localeSpan(androidx.compose.ui.text.intl.LocaleList)
+com.sikandar.aurajot.data.local.entity.NoteEntity: NoteEntity(long,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean,boolean,long,long,java.lang.Long,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: WindowInsetsCompat$BuilderImpl29()
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedPreScroll(android.view.View,int,int,int[],int[])
+com.sikandar.aurajot.data.local.entity.TaskEntity: boolean isDeleted()
+androidx.compose.ui.platform.ViewLayer: androidx.compose.ui.platform.AndroidComposeView getOwnerView()
+androidx.compose.ui.platform.AndroidComposeViewAccessibilityDelegateCompat$Api24Impl: void addSetProgressAction(androidx.core.view.accessibility.AccessibilityNodeInfoCompat,androidx.compose.ui.semantics.SemanticsNode)
+com.sikandar.aurajot.data.local.dao.NoteDao: kotlinx.coroutines.flow.Flow getDeletedNotes()
+androidx.compose.ui.text.android.CanvasCompatQ: void drawColor(android.graphics.Canvas,long)
+androidx.compose.ui.graphics.layer.ViewLayer: boolean getCanUseCompositingLayer$ui_graphics_release()
+com.sikandar.aurajot.domain.model.Note: Note(long,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean,boolean,long,long,java.lang.Long)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getInsetsIgnoringVisibility(int)
+androidx.core.graphics.drawable.IconCompat$Api26Impl: android.graphics.drawable.Drawable createAdaptiveIconDrawable(android.graphics.drawable.Drawable,android.graphics.drawable.Drawable)
+androidx.core.view.ViewCompat$Api21Impl: float getTranslationZ(android.view.View)
+androidx.compose.ui.platform.AbstractComposeView: boolean getShowLayoutBounds()
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$3: NoteDao_Impl$3(com.sikandar.aurajot.data.local.dao.NoteDao_Impl,androidx.room.RoomDatabase)
+androidx.compose.ui.autofill.AutofillApi26Helper: void setAutofillId(android.view.ViewStructure,android.view.autofill.AutofillId,int)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int fallback(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.HandwritingGesture)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$14: void finalize()
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$13: TaskDao_Impl$13(com.sikandar.aurajot.data.local.dao.TaskDao_Impl,androidx.room.RoomSQLiteQuery)
+androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy: androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy valueOf(java.lang.String)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$7: java.lang.Long call()
+androidx.lifecycle.ProcessLifecycleOwner$Api29Impl: void registerActivityLifecycleCallbacks(android.app.Activity,android.app.Application$ActivityLifecycleCallbacks)
+androidx.compose.ui.state.ToggleableState: androidx.compose.ui.state.ToggleableState valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean equals(java.lang.Object)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: java.lang.String getCollectionItemColumnTitle(java.lang.Object)
+com.sikandar.aurajot.domain.model.ChecklistItem: int hashCode()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStarted(android.app.Activity)
+androidx.activity.OnBackPressedDispatcher$Api33Impl: void registerOnBackInvokedCallback(java.lang.Object,int,java.lang.Object)
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons valueOf(java.lang.String)
+androidx.lifecycle.ReportFragment: ReportFragment()
+androidx.compose.ui.platform.AndroidComposeViewVerificationHelperMethodsO: void focusable(android.view.View,int,boolean)
+androidx.room.RoomDatabase: void close()
+androidx.compose.ui.text.android.BoringLayoutFactory33: android.text.BoringLayout create(java.lang.CharSequence,android.text.TextPaint,int,android.text.Layout$Alignment,float,float,android.text.BoringLayout$Metrics,boolean,boolean,android.text.TextUtils$TruncateAt,int)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemGestureInsets()
+com.sikandar.aurajot.data.local.entity.TaskEntity: java.lang.Long getDeletedAt()
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.core.view.ViewCompat$Api30Impl: int getImportantForContentCapture(android.view.View)
+androidx.compose.foundation.Api31Impl: float getDistance(android.widget.EdgeEffect)
+androidx.compose.material.ripple.RippleHostView: void setRippleState(boolean)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostResumed(android.app.Activity)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewSelectRangeGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.SelectRangeGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+com.sikandar.aurajot.data.local.entity.TaskEntity: java.lang.String component8()
+androidx.core.view.WindowInsetsCompat$Impl20: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$3: java.lang.String createQuery()
+androidx.compose.ui.text.android.CanvasCompatO: boolean clipOutPath(android.graphics.Canvas,android.graphics.Path)
+androidx.compose.ui.text.android.CanvasCompatR: boolean quickReject(android.graphics.Canvas,float,float,float,float)
+com.sikandar.aurajot.data.local.dao.NoteDao: java.lang.Object togglePin(long,boolean,kotlin.coroutines.Continuation)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$9: TaskDao_Impl$9(com.sikandar.aurajot.data.local.dao.TaskDao_Impl,long,long)
+com.sikandar.aurajot.data.local.entity.NoteEntity: java.lang.String component5()
+androidx.navigation.NavBackStackEntry$SavedStateViewModel: NavBackStackEntry$SavedStateViewModel(androidx.lifecycle.SavedStateHandle)
+androidx.core.view.WindowInsetsCompat$Impl30: androidx.core.graphics.Insets getInsets(int)
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl: androidx.sqlite.db.SupportSQLiteOpenHelper createOpenHelper(androidx.room.DatabaseConfiguration)
+androidx.room.RoomDatabase: void clearAllTables()
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$9: java.lang.Object call()
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$5: java.lang.String createQuery()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.text.font.Font$ResourceLoader getFontLoader()
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.layout.LayoutCoordinates getParentLayoutCoordinates()
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState[] values()
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl21)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performHandwritingGesture$foundation_release(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.HandwritingGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager,androidx.compose.ui.platform.ViewConfiguration,kotlin.jvm.functions.Function1)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$4: java.lang.String createQuery()
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl$1: void onCreate(androidx.sqlite.db.SupportSQLiteDatabase)
+com.sikandar.aurajot.data.local.dao.TaskDao: java.lang.Object insertOrUpdateTask(com.sikandar.aurajot.data.local.entity.TaskEntity,kotlin.coroutines.Continuation)
+androidx.graphics.path.PathIteratorPreApi34Impl: void destroyInternalPathIterator(long)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$15: com.sikandar.aurajot.data.local.entity.TaskEntity call()
+androidx.core.view.ViewCompat$Api21Impl$1: android.view.WindowInsets onApplyWindowInsets(android.view.View,android.view.WindowInsets)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$1: void bind(androidx.sqlite.db.SupportSQLiteStatement,com.sikandar.aurajot.data.local.entity.NoteEntity)
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+com.sikandar.aurajot.domain.model.TrashItem$NoteTrash: long getDeletedAt()
+androidx.core.graphics.drawable.IconCompat$Api30Impl: android.graphics.drawable.Icon createWithAdaptiveBitmapContentUri(android.net.Uri)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidComposeView$ViewTreeOwners getViewTreeOwners()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+com.sikandar.aurajot.domain.model.TaskItem: java.lang.String component3()
+androidx.compose.ui.graphics.Path$Direction: androidx.compose.ui.graphics.Path$Direction[] values()
+androidx.compose.ui.graphics.TileModeVerificationHelper: int getComposeTileModeDecal-3opZhB0()
+androidx.compose.ui.input.pointer.PointerEventPass: androidx.compose.ui.input.pointer.PointerEventPass[] values()
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$2: TaskDao_Impl$2(com.sikandar.aurajot.data.local.dao.TaskDao_Impl,androidx.room.RoomDatabase)
+androidx.core.view.ViewCompat$Api21Impl: void setNestedScrollingEnabled(android.view.View,boolean)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.SoftwareKeyboardController getSoftwareKeyboardController()
+androidx.compose.ui.text.android.StaticLayoutFactory28: void setUseLineSpacingFromFallbacks(android.text.StaticLayout$Builder,boolean)
+androidx.compose.ui.platform.AndroidComposeView: void getFontLoader$annotations()
+androidx.core.view.ViewCompat$Api28Impl: boolean isScreenReaderFocusable(android.view.View)
+com.sikandar.aurajot.domain.model.ChecklistItem: boolean equals(java.lang.Object)
+androidx.compose.ui.window.PopupLayout: void setParentLayoutCoordinates(androidx.compose.ui.layout.LayoutCoordinates)
+androidx.compose.ui.window.PopupLayout: int getDisplayWidth()
+com.sikandar.aurajot.data.local.entity.NoteEntity: boolean equals(java.lang.Object)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: android.view.accessibility.AccessibilityNodeInfo$ExtraRenderingInfo getExtraRenderingInfo(android.view.accessibility.AccessibilityNodeInfo)
+com.sikandar.aurajot.data.local.entity.NoteEntity: com.sikandar.aurajot.data.local.entity.NoteEntity copy$default(com.sikandar.aurajot.data.local.entity.NoteEntity,long,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean,boolean,long,long,java.lang.Long,int,java.lang.Object)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.ViewConfiguration getViewConfiguration()
+androidx.compose.ui.text.input.CursorAnchorInfoApi34Helper: android.view.inputmethod.CursorAnchorInfo$Builder addVisibleLineBounds(android.view.inputmethod.CursorAnchorInfo$Builder,androidx.compose.ui.text.TextLayoutResult,androidx.compose.ui.geometry.Rect)
+com.sikandar.aurajot.domain.model.TrashItem$NoteTrash: java.lang.String getItemType()
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api29Impl: android.view.ViewStructure newVirtualViewStructure(android.view.contentcapture.ContentCaptureSession,android.view.autofill.AutofillId,long)
+androidx.room.Index$Order: androidx.room.Index$Order[] values()
+androidx.compose.ui.platform.AbstractComposeView: boolean getShouldCreateCompositionOnAttachedToWindow()
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api29Impl: android.view.autofill.AutofillId newAutofillId(android.view.contentcapture.ContentCaptureSession,android.view.autofill.AutofillId,long)
+androidx.core.view.WindowInsetsCompat$Impl: boolean isVisible(int)
+com.sikandar.aurajot.data.local.entity.NoteEntity: java.lang.String getContent()
+androidx.compose.ui.platform.ViewLayerVerificationHelper28: void setOutlineSpotShadowColor(android.view.View,int)
+com.sikandar.aurajot.data.local.entity.NoteEntity: java.lang.Long component10()
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$8: TaskDao_Impl$8(com.sikandar.aurajot.data.local.dao.TaskDao_Impl,boolean,long,long)
+com.sikandar.aurajot.domain.model.Note: com.sikandar.aurajot.domain.model.Note copy(long,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean,boolean,long,long,java.lang.Long)
+androidx.compose.ui.focus.FocusStateImpl: androidx.compose.ui.focus.FocusStateImpl valueOf(java.lang.String)
+com.sikandar.aurajot.data.local.dao.TaskDao: java.lang.Object toggleTaskCompletion(long,boolean,long,kotlin.coroutines.Continuation)
+androidx.compose.foundation.Api31Impl: float onPullDistance(android.widget.EdgeEffect,float,float)
+com.sikandar.aurajot.data.local.entity.NoteEntity: com.sikandar.aurajot.data.local.entity.NoteEntity copy(long,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean,boolean,long,long,java.lang.Long)
+androidx.graphics.path.PathIteratorPreApi34Impl: int internalPathIteratorSize(long)
+kotlin.collections.AbstractList: AbstractList()
+androidx.compose.ui.autofill.AutofillType: androidx.compose.ui.autofill.AutofillType[] values()
+androidx.compose.ui.autofill.AutofillCallback: void register(androidx.compose.ui.autofill.AndroidAutofill)
+androidx.compose.foundation.MutatePriority: androidx.compose.foundation.MutatePriority valueOf(java.lang.String)
+com.sikandar.aurajot.domain.model.Note: int hashCode()
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.compose.ui.graphics.ColorSpaceVerificationHelper: androidx.compose.ui.graphics.colorspace.ColorSpace composeColorSpace(android.graphics.ColorSpace)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.semantics.SemanticsOwner getSemanticsOwner()
+androidx.compose.ui.text.android.CanvasCompatQ: void disableZ(android.graphics.Canvas)
+com.sikandar.aurajot.domain.model.TrashItem$NoteTrash: com.sikandar.aurajot.domain.model.TrashItem$NoteTrash copy$default(com.sikandar.aurajot.domain.model.TrashItem$NoteTrash,com.sikandar.aurajot.domain.model.Note,int,java.lang.Object)
+kotlinx.coroutines.selects.TrySelectDetailedResult: kotlinx.coroutines.selects.TrySelectDetailedResult valueOf(java.lang.String)
+androidx.compose.ui.focus.FocusStateImpl: androidx.compose.ui.focus.FocusStateImpl[] values()
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$13: java.util.List call()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: androidx.core.view.WindowInsetsCompat build()
+androidx.compose.ui.graphics.Path$Direction: androidx.compose.ui.graphics.Path$Direction valueOf(java.lang.String)
+kotlin.time.DurationUnit: kotlin.time.DurationUnit valueOf(java.lang.String)
+androidx.core.app.RemoteActionCompat: RemoteActionCompat()
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPaused(android.app.Activity)
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl: java.util.List access$400(com.sikandar.aurajot.data.local.AuraJotDatabase_Impl)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getRootStableInsets()
+androidx.graphics.path.PathIteratorPreApi34Impl: int internalPathIteratorPeek(long)
+com.sikandar.aurajot.data.local.entity.TaskEntity: TaskEntity(long,java.lang.String,java.lang.String,boolean,java.lang.String,java.lang.Long,java.lang.String,java.lang.String,boolean,long,long,java.lang.Long)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl: kotlinx.coroutines.flow.Flow getDeletedTasks()
+androidx.room.RoomDatabase: java.util.List getAutoMigrations(java.util.Map)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityResumed(android.app.Activity)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.contentcapture.AndroidContentCaptureManager getContentCaptureManager$ui_release()
+com.sikandar.aurajot.presentation.components.BottomNavTab: com.sikandar.aurajot.presentation.components.BottomNavTab[] values()
+androidx.core.view.ViewCompat$Api28Impl: java.lang.Object requireViewById(android.view.View,int)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl: java.util.List getRequiredConverters()
+androidx.core.view.ViewCompat$Api21Impl: boolean dispatchNestedScroll(android.view.View,int,int,int,int,int[])
+androidx.compose.ui.autofill.AutofillApi26Helper: void setAutofillType(android.view.ViewStructure,int)
+androidx.core.view.ViewCompat$Api21Impl: android.content.res.ColorStateList getBackgroundTintList(android.view.View)
+com.sikandar.aurajot.data.local.entity.TaskEntity: java.lang.String getCategory()
+androidx.compose.ui.layout.IntrinsicWidthHeight: androidx.compose.ui.layout.IntrinsicWidthHeight valueOf(java.lang.String)
+androidx.core.app.NotificationManagerCompat$Api24Impl: int getImportance(android.app.NotificationManager)
+androidx.core.view.ViewCompat$Api30Impl: java.lang.CharSequence getStateDescription(android.view.View)
+com.sikandar.aurajot.domain.model.TaskItem: java.lang.Long getDeletedAt()
+androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicMinMax: androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicMinMax[] values()
+com.sikandar.aurajot.domain.model.TrashItem$NoteTrash: com.sikandar.aurajot.domain.model.Note component1()
+androidx.room.RoomDatabase: java.util.concurrent.Executor getTransactionExecutor()
+kotlinx.coroutines.android.AndroidDispatcherFactory: kotlinx.coroutines.MainCoroutineDispatcher createDispatcher(java.util.List)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getSystemGestureInsets()
+androidx.core.graphics.drawable.IconCompat$Api26Impl: android.graphics.drawable.Icon createWithAdaptiveBitmap(android.graphics.Bitmap)
+androidx.compose.ui.unit.LayoutDirection: androidx.compose.ui.unit.LayoutDirection valueOf(java.lang.String)
+com.sikandar.aurajot.data.local.AuraJotDatabase: com.sikandar.aurajot.data.local.dao.TaskDao getTaskDao()
+com.sikandar.aurajot.data.local.entity.TaskEntity: long getId()
+androidx.compose.ui.platform.ViewLayer: androidx.compose.ui.platform.DrawChildContainer getContainer()
+androidx.compose.ui.text.android.BoringLayoutFactory33: boolean isFallbackLineSpacingEnabled(android.text.BoringLayout)
+com.sikandar.aurajot.data.local.dao.TaskDao: java.lang.Object emptyTrash(kotlin.coroutines.Continuation)
+androidx.room.EntityInsertionAdapter: long insertAndReturnId(java.lang.Object)
+com.sikandar.aurajot.domain.model.TrashItem$NoteTrash: long getId()
+androidx.compose.ui.platform.coreshims.ViewStructureCompat$Api23Impl: void setContentDescription(android.view.ViewStructure,java.lang.CharSequence)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performJoinOrSplitGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.JoinOrSplitGesture,androidx.compose.ui.text.AnnotatedString,androidx.compose.ui.platform.ViewConfiguration,kotlin.jvm.functions.Function1)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: WindowInsetsCompat$BuilderImpl20()
+androidx.compose.ui.graphics.layer.RenderNodeVerificationHelper28: void setAmbientShadowColor(android.view.RenderNode,int)
+androidx.core.os.BundleApi21ImplKt: void putSizeF(android.os.Bundle,java.lang.String,android.util.SizeF)
+androidx.room.RoomDatabase: void assertNotSuspendingTransaction()
+androidx.core.view.ViewCompat$Api21Impl: void setTransitionName(android.view.View,java.lang.String)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStopped(android.app.Activity)
+androidx.compose.ui.window.PopupLayout: int getDisplayHeight()
+com.sikandar.aurajot.domain.model.ChecklistItem: boolean isDone()
+androidx.compose.ui.autofill.AutofillApi26Helper: boolean isList(android.view.autofill.AutofillValue)
+androidx.core.view.DisplayCutoutCompat$Api28Impl: int getSafeInsetTop(android.view.DisplayCutout)
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+com.sikandar.aurajot.data.local.entity.NoteEntity: java.lang.String getCategory()
+com.sikandar.aurajot.data.local.entity.ChecklistConverter: java.lang.String fromList(java.util.List)
+androidx.compose.ui.window.PopupLayout: void getParams$ui_release$annotations()
+androidx.compose.foundation.text.input.internal.CursorAnchorInfoApi34Helper: android.view.inputmethod.CursorAnchorInfo$Builder addVisibleLineBounds(android.view.inputmethod.CursorAnchorInfo$Builder,androidx.compose.ui.text.TextLayoutResult,androidx.compose.ui.geometry.Rect)
+androidx.compose.ui.platform.AndroidComposeView: void setLastMatrixRecalculationAnimationTime$ui_release(long)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl(androidx.core.view.WindowInsetsCompat)
+androidx.core.view.WindowInsetsCompat$TypeImpl30: int toPlatformType(int)
+androidx.compose.foundation.text.input.internal.undo.TextEditType: androidx.compose.foundation.text.input.internal.undo.TextEditType[] values()
+androidx.compose.runtime.InvalidationResult: androidx.compose.runtime.InvalidationResult valueOf(java.lang.String)
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+androidx.compose.ui.platform.AndroidViewsHandler: java.util.HashMap getHolderToLayoutNode()
+androidx.compose.ui.graphics.layer.OutlineVerificationHelper: void setPath(android.graphics.Outline,androidx.compose.ui.graphics.Path)
+com.sikandar.aurajot.domain.model.TaskItem: boolean isCompleted()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidComposeView$ViewTreeOwners get_viewTreeOwners()
+androidx.compose.ui.contentcapture.AndroidContentCaptureManager$ViewTranslationHelperMethods: void onVirtualViewTranslationResponses(androidx.compose.ui.contentcapture.AndroidContentCaptureManager,android.util.LongSparseArray)
+com.sikandar.aurajot.data.local.entity.NoteEntity: java.lang.String component4()
+com.sikandar.aurajot.presentation.screens.trash.TrashFilter: com.sikandar.aurajot.presentation.screens.trash.TrashFilter[] values()
+androidx.compose.ui.window.PopupLayout: void setContent(kotlin.jvm.functions.Function2)
+com.sikandar.aurajot.domain.model.TrashItem$NoteTrash: int hashCode()
+com.sikandar.aurajot.domain.model.PriorityLevel: kotlin.enums.EnumEntries getEntries()
+androidx.core.view.ViewCompat$Api21Impl: void setOnApplyWindowInsetsListener(android.view.View,androidx.core.view.OnApplyWindowInsetsListener)
+com.sikandar.aurajot.domain.model.TaskItem: long getId()
+androidx.compose.ui.text.android.AndroidLayoutApi34: int[] getRangeForRect$ui_text_release(androidx.compose.ui.text.android.TextLayout,android.graphics.RectF,int,kotlin.jvm.functions.Function2)
+com.sikandar.aurajot.data.local.dao.NoteDao: kotlinx.coroutines.flow.Flow getActiveNotes()
+androidx.compose.ui.window.PopupLayout: void setPopupContentSize-fhxjrPA(androidx.compose.ui.unit.IntSize)
+kotlin.collections.AbstractMutableSet: AbstractMutableSet()
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl$1: void createAllTables(androidx.sqlite.db.SupportSQLiteDatabase)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performDeleteRangeGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.DeleteRangeGesture,androidx.compose.ui.text.AnnotatedString,kotlin.jvm.functions.Function1)
+androidx.room.SharedSQLiteStatement: void assertNotMainThread()
+com.sikandar.aurajot.domain.model.TaskItem: boolean component9()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+com.sikandar.aurajot.domain.model.TaskItem: com.sikandar.aurajot.domain.model.TaskItem copy$default(com.sikandar.aurajot.domain.model.TaskItem,long,java.lang.String,java.lang.String,boolean,com.sikandar.aurajot.domain.model.PriorityLevel,java.lang.Long,java.lang.String,java.util.List,boolean,long,long,java.lang.Long,int,java.lang.Object)
+androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand: androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand[] values()
+androidx.compose.ui.layout.IntrinsicMinMax: androidx.compose.ui.layout.IntrinsicMinMax[] values()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performDeleteGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.DeleteGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityStopped(android.app.Activity)
+com.sikandar.aurajot.data.local.entity.TaskEntity: java.lang.String getTitle()
+com.sikandar.aurajot.domain.model.Note: java.lang.String toString()
+com.sikandar.aurajot.data.local.AuraJotDatabase: void access$setINSTANCE$cp(com.sikandar.aurajot.data.local.AuraJotDatabase)
+androidx.room.RoomDatabase: void endTransaction()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setTappableElementInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.platform.AndroidComposeViewForceDarkModeQ: void disallowForceDark(android.view.View)
+androidx.core.view.ViewCompat$Api30Impl: void setImportantForContentCapture(android.view.View,int)
+androidx.compose.ui.window.Api33Impl: void maybeUnregisterBackCallback(android.view.View,java.lang.Object)
+androidx.compose.material3.tokens.ShapeKeyTokens: androidx.compose.material3.tokens.ShapeKeyTokens[] values()
+androidx.compose.ui.graphics.Api26Bitmap: androidx.compose.ui.graphics.colorspace.ColorSpace composeColorSpace$ui_graphics_release(android.graphics.Bitmap)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performRemoveSpaceGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.RemoveSpaceGesture,androidx.compose.ui.text.AnnotatedString,androidx.compose.ui.platform.ViewConfiguration,kotlin.jvm.functions.Function1)
+androidx.room.RoomDatabase: boolean inTransaction()
+androidx.compose.ui.graphics.layer.RenderNodeVerificationHelper28: int getAmbientShadowColor(android.view.RenderNode)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api33Impl: void setUniqueId(android.view.accessibility.AccessibilityNodeInfo,java.lang.String)
+androidx.room.RoomDatabase: java.lang.Object getTypeConverter(java.lang.Class)
+androidx.graphics.path.PathIteratorPreApi34Impl: boolean internalPathIteratorHasNext(long)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl: java.lang.Object softDeleteNote(long,long,kotlin.coroutines.Continuation)
+androidx.core.view.WindowInsetsCompat$Impl: void setStableInsets(androidx.core.graphics.Insets)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStarted(android.app.Activity)
+androidx.activity.Api34Impl: int swipeEdge(android.window.BackEvent)
+androidx.compose.ui.platform.AndroidComposeView: void setOnViewTreeOwnersAvailable(kotlin.jvm.functions.Function1)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreDestroyed(android.app.Activity)
+com.sikandar.aurajot.domain.model.Note: java.lang.String getColorHex()
+androidx.room.RoomDatabase: boolean isOpenInternal()
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.compose.ui.platform.AbstractComposeView: void setViewCompositionStrategy(androidx.compose.ui.platform.ViewCompositionStrategy)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void setQueryFromAppProcessEnabled(android.view.accessibility.AccessibilityNodeInfo,android.view.View,boolean)
+androidx.core.view.WindowInsetsCompat$Impl20: void copyRootViewBounds(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl21: boolean isConsumed()
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl: NoteDao_Impl(androidx.room.RoomDatabase)
+androidx.compose.foundation.text.Handle: androidx.compose.foundation.text.Handle[] values()
+androidx.core.view.WindowInsetsCompat$Impl29: void setStableInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.focus.CustomDestinationResult: androidx.compose.ui.focus.CustomDestinationResult[] values()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: boolean isAccessibilityDataSensitive(android.view.accessibility.AccessibilityNodeInfo)
+androidx.compose.foundation.gestures.Orientation: androidx.compose.foundation.gestures.Orientation valueOf(java.lang.String)
+androidx.room.RoomDatabase: void getMCallbacks$annotations()
+androidx.room.RoomDatabase: java.util.concurrent.locks.Lock getCloseLock$room_runtime_release()
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$4: TaskDao_Impl$4(com.sikandar.aurajot.data.local.dao.TaskDao_Impl,androidx.room.RoomDatabase)
+androidx.compose.ui.platform.RenderNodeApi29VerificationHelper: void setRenderEffect(android.graphics.RenderNode,androidx.compose.ui.graphics.RenderEffect)
+androidx.activity.EdgeToEdgeApi29: void setUp(androidx.activity.SystemBarStyle,androidx.activity.SystemBarStyle,android.view.Window,android.view.View,boolean,boolean)
+androidx.compose.material3.MinimumInteractiveModifier: MinimumInteractiveModifier()
+androidx.core.view.ViewCompat$Api20Impl: android.view.WindowInsets onApplyWindowInsets(android.view.View,android.view.WindowInsets)
+androidx.room.RoomDatabase: androidx.room.InvalidationTracker createInvalidationTracker()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api30Impl: void setStateDescription(android.view.accessibility.AccessibilityNodeInfo,java.lang.CharSequence)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performRemoveSpaceGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.RemoveSpaceGesture,androidx.compose.foundation.text.input.internal.TextLayoutState,androidx.compose.ui.platform.ViewConfiguration)
+androidx.compose.ui.platform.ViewLayer$UniqueDrawingIdApi29: long getUniqueDrawingId(android.view.View)
+androidx.compose.ui.platform.AndroidComposeView: void set_viewTreeOwners(androidx.compose.ui.platform.AndroidComposeView$ViewTreeOwners)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$1: TaskDao_Impl$1(com.sikandar.aurajot.data.local.dao.TaskDao_Impl,androidx.room.RoomDatabase)
+com.sikandar.aurajot.data.local.entity.TaskEntity: java.lang.String getPriority()
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl$1: AuraJotDatabase_Impl$1(com.sikandar.aurajot.data.local.AuraJotDatabase_Impl,int)
+com.sikandar.aurajot.presentation.components.BottomNavTab: com.sikandar.aurajot.presentation.components.BottomNavTab valueOf(java.lang.String)
+androidx.compose.animation.core.RepeatMode: androidx.compose.animation.core.RepeatMode[] values()
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl: java.util.Map getRequiredTypeConverters()
+androidx.core.view.WindowInsetsCompat$Impl: void setOverriddenInsets(androidx.core.graphics.Insets[])
+androidx.core.graphics.drawable.IconCompat$Api28Impl: android.net.Uri getUri(java.lang.Object)
+androidx.compose.ui.text.android.StaticLayoutFactoryImpl: android.text.StaticLayout create(androidx.compose.ui.text.android.StaticLayoutParams)
+androidx.compose.ui.text.android.selection.Api34SegmentFinder: android.text.SegmentFinder toAndroidSegmentFinder$ui_text_release(androidx.compose.ui.text.android.selection.SegmentFinder)
+androidx.compose.ui.graphics.layer.view.DrawChildContainer: int getChildCount()
+androidx.compose.foundation.text.selection.CrossStatus: androidx.compose.foundation.text.selection.CrossStatus valueOf(java.lang.String)
+com.sikandar.aurajot.data.local.entity.TaskEntity: long getUpdatedAt()
+com.sikandar.aurajot.domain.model.ChecklistItem: boolean component3()
+androidx.versionedparcelable.CustomVersionedParcelable: CustomVersionedParcelable()
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$5: NoteDao_Impl$5(com.sikandar.aurajot.data.local.dao.NoteDao_Impl,androidx.room.RoomDatabase)
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl$1: androidx.room.RoomOpenHelper$ValidationResult onValidateSchema(androidx.sqlite.db.SupportSQLiteDatabase)
+androidx.compose.ui.graphics.layer.RenderNodeVerificationHelper24: void discardDisplayList(android.view.RenderNode)
+androidx.compose.ui.graphics.layer.ViewLayerVerificationHelper28: void setOutlineSpotShadowColor(android.view.View,int)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: ProcessLifecycleOwner$attach$1(androidx.lifecycle.ProcessLifecycleOwner)
+androidx.compose.ui.text.android.StaticLayoutFactoryDefault: android.text.StaticLayout create(androidx.compose.ui.text.android.StaticLayoutParams)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.TextToolbar getTextToolbar()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.graphics.GraphicsContext getGraphicsContext()
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$1: java.lang.String createQuery()
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$14: NoteDao_Impl$14(com.sikandar.aurajot.data.local.dao.NoteDao_Impl,androidx.room.RoomSQLiteQuery)
+androidx.compose.ui.input.pointer.MotionEventHelper: long toRawOffset-dBAh8RU(android.view.MotionEvent,int)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void setMinDurationBetweenContentChangeMillis(android.view.accessibility.AccessibilityNodeInfo,long)
+androidx.core.view.ViewCompat$Api21Impl$1: ViewCompat$Api21Impl$1(android.view.View,androidx.core.view.OnApplyWindowInsetsListener)
+androidx.compose.material.ripple.UnprojectedRipple$MRadiusHelper: void setRadius(android.graphics.drawable.RippleDrawable,int)
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl: void access$300(com.sikandar.aurajot.data.local.AuraJotDatabase_Impl,androidx.sqlite.db.SupportSQLiteDatabase)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performSelectGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.SelectGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.text.input.TextInputService getTextInputService()
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api34Impl: void notifyViewsAppeared(android.view.contentcapture.ContentCaptureSession,java.util.List)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+com.sikandar.aurajot.domain.model.TrashItem$NoteTrash: com.sikandar.aurajot.domain.model.Note getNote()
+androidx.compose.ui.scrollcapture.ScrollCapture: void onScrollCaptureSearch(android.view.View,androidx.compose.ui.semantics.SemanticsOwner,kotlin.coroutines.CoroutineContext,java.util.function.Consumer)
+com.sikandar.aurajot.domain.model.PriorityLevel$Companion: PriorityLevel$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] values()
+androidx.compose.ui.graphics.layer.ViewLayer: android.view.View getOwnerView()
+androidx.compose.foundation.text.HandleState: androidx.compose.foundation.text.HandleState[] values()
+androidx.room.RoomDatabase: void setAutoMigrationSpecs(java.util.Map)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.graphics.Insets getStableInsets()
+com.sikandar.aurajot.data.local.entity.TaskEntity: java.lang.String getNotes()
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$15: TaskDao_Impl$15(com.sikandar.aurajot.data.local.dao.TaskDao_Impl,androidx.room.RoomSQLiteQuery)
+androidx.compose.ui.window.Api33Impl: void maybeRegisterBackCallback(android.view.View,java.lang.Object)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidClipboardManager getClipboardManager()
+androidx.compose.ui.text.android.CanvasCompatO: boolean clipOutRect(android.graphics.Canvas,android.graphics.RectF)
+com.sikandar.aurajot.domain.model.TaskItem: TaskItem(long,java.lang.String,java.lang.String,boolean,com.sikandar.aurajot.domain.model.PriorityLevel,java.lang.Long,java.lang.String,java.util.List,boolean,long,long,java.lang.Long)
+androidx.compose.ui.text.android.CanvasCompatR: boolean quickReject(android.graphics.Canvas,android.graphics.RectF)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void getBoundsInWindow(android.view.accessibility.AccessibilityNodeInfo,android.graphics.Rect)
+androidx.compose.foundation.text.Handle: androidx.compose.foundation.text.Handle valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isTypeVisible(int)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$12: TaskDao_Impl$12(com.sikandar.aurajot.data.local.dao.TaskDao_Impl)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsetsForType(int,boolean)
+androidx.core.view.ViewCompat$Api20Impl: void requestApplyInsets(android.view.View)
+androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand: androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand valueOf(java.lang.String)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewDeleteRangeGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.DeleteRangeGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.WindowInfo getWindowInfo()
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$10: kotlin.Unit call()
+com.sikandar.aurajot.domain.model.PriorityLevel: com.sikandar.aurajot.domain.model.PriorityLevel[] values()
+androidx.compose.ui.platform.TextToolbarHelperMethods: android.view.ActionMode startActionMode(android.view.View,android.view.ActionMode$Callback,int)
+androidx.room.RoomDatabase: java.util.Map getRequiredTypeConverters()
+com.sikandar.aurajot.data.local.entity.TaskEntity: java.lang.Long component12()
+com.sikandar.aurajot.data.local.entity.NoteEntity: long getId()
+androidx.activity.EdgeToEdgeApi30: void adjustLayoutInDisplayCutoutMode(android.view.Window)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostCreated(android.app.Activity,android.os.Bundle)
+androidx.core.view.ViewCompat$Api21Impl: boolean hasNestedScrollingParent(android.view.View)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$13: java.lang.Object call()
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$4: NoteDao_Impl$4(com.sikandar.aurajot.data.local.dao.NoteDao_Impl,androidx.room.RoomDatabase)
+com.sikandar.aurajot.data.local.entity.NoteEntity: boolean isDeleted()
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow[] values()
+androidx.compose.material3.tokens.TypographyKeyTokens: androidx.compose.material3.tokens.TypographyKeyTokens[] values()
+androidx.room.EntityInsertionAdapter: java.util.List insertAndReturnIdsList(java.lang.Object[])
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+com.sikandar.aurajot.domain.model.TrashItem$NoteTrash: com.sikandar.aurajot.domain.model.TrashItem$NoteTrash copy(com.sikandar.aurajot.domain.model.Note)
+com.sikandar.aurajot.domain.model.TaskItem: java.lang.String component7()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.unit.Density getDensity()
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$10: kotlin.Unit call()
+androidx.core.graphics.Insets$Api29Impl: android.graphics.Insets of(int,int,int,int)
+androidx.compose.ui.platform.AbstractComposeView: void getShowLayoutBounds$annotations()
+com.sikandar.aurajot.domain.model.TrashItem: long getId()
+androidx.compose.ui.platform.ViewLayer: long getLayerId()
+androidx.graphics.path.PathIteratorPreApi34Impl: int internalPathIteratorRawSize(long)
+androidx.compose.ui.platform.AndroidComposeView: void setCoroutineContext(kotlin.coroutines.CoroutineContext)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityResumed(android.app.Activity)
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$15: com.sikandar.aurajot.data.local.entity.NoteEntity call()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: boolean previewHandwritingGesture$foundation_release(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.PreviewableHandwritingGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager,android.os.CancellationSignal)
+androidx.compose.ui.graphics.layer.ViewLayerVerificationHelper28: void resetPivot(android.view.View)
+com.sikandar.aurajot.domain.model.PriorityLevel: int getLevel()
+androidx.room.RoomDatabase: androidx.sqlite.db.SupportSQLiteOpenHelper createOpenHelper(androidx.room.DatabaseConfiguration)
+com.sikandar.aurajot.domain.model.TrashItem$TaskTrash: com.sikandar.aurajot.domain.model.TrashItem$TaskTrash copy$default(com.sikandar.aurajot.domain.model.TrashItem$TaskTrash,com.sikandar.aurajot.domain.model.TaskItem,int,java.lang.Object)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$14: java.lang.Object call()
+androidx.compose.ui.text.font.FontWeightAdjustmentHelperApi31: int fontWeightAdjustment(android.content.Context)
+androidx.compose.ui.input.pointer.PointerEventPass: androidx.compose.ui.input.pointer.PointerEventPass valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: void getLastMatrixRecalculationAnimationTime$ui_release$annotations()
+androidx.compose.ui.graphics.layer.ViewLayer: androidx.compose.ui.graphics.CanvasHolder getCanvasHolder()
+com.sikandar.aurajot.data.local.entity.ChecklistConverter: ChecklistConverter()
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$10: TaskDao_Impl$10(com.sikandar.aurajot.data.local.dao.TaskDao_Impl,long)
+com.sikandar.aurajot.domain.model.Note: long component1()
+androidx.compose.ui.graphics.layer.RenderNodeVerificationHelper23: void destroyDisplayListData(android.view.RenderNode)
+com.sikandar.aurajot.data.local.entity.TaskEntity: boolean component4()
+androidx.compose.ui.platform.AbstractComposeView: void setParentCompositionContext(androidx.compose.runtime.CompositionContext)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$5: TaskDao_Impl$5(com.sikandar.aurajot.data.local.dao.TaskDao_Impl,androidx.room.RoomDatabase)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemGestureInsets(androidx.core.graphics.Insets)
+androidx.room.RoomDatabase: androidx.room.InvalidationTracker getInvalidationTracker()
+com.sikandar.aurajot.domain.model.TaskItem: java.lang.String toString()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.hapticfeedback.HapticFeedback getHapticFeedBack()
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$6: java.lang.String createQuery()
+androidx.room.EntityInsertionAdapter: void insert(java.lang.Object[])
+com.sikandar.aurajot.data.local.entity.TaskEntity: java.lang.String component3()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.RootForTest getRootForTest()
+androidx.compose.ui.autofill.AutofillCallback: void unregister(androidx.compose.ui.autofill.AndroidAutofill)
+com.sikandar.aurajot.domain.model.Note: boolean component6()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemWindowInsets(androidx.core.graphics.Insets)
+com.sikandar.aurajot.domain.model.TaskItem: long component10()
+com.sikandar.aurajot.domain.model.Note: java.lang.String getCategory()
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$7: java.lang.Object call()
+androidx.compose.ui.platform.AndroidComposeView: android.view.View getView()
+androidx.compose.ui.text.android.CanvasCompatQ: void drawTextRun(android.graphics.Canvas,android.graphics.text.MeasuredText,int,int,int,int,float,float,boolean,android.graphics.Paint)
+androidx.compose.foundation.text.input.internal.Api34StartStylusHandwriting: void startStylusHandwriting(android.view.inputmethod.InputMethodManager,android.view.View)
+androidx.profileinstaller.ProfileInstallReceiver: ProfileInstallReceiver()
+androidx.compose.ui.graphics.layer.ViewLayer: void setCanUseCompositingLayer$ui_graphics_release(boolean)
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl()
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$6: java.lang.String createQuery()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreStopped(android.app.Activity)
+androidx.compose.ui.window.PopupLayout: void setParentLayoutDirection(androidx.compose.ui.unit.LayoutDirection)
+androidx.room.RoomDatabase: java.util.concurrent.Executor getQueryExecutor()
+com.sikandar.aurajot.AuraJotApplication: AuraJotApplication()
+androidx.lifecycle.SavedStateHandlesVM: SavedStateHandlesVM()
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl20)
+androidx.core.view.ViewCompat$Api21Impl: android.graphics.PorterDuff$Mode getBackgroundTintMode(android.view.View)
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$9: kotlin.Unit call()
+androidx.compose.ui.platform.AndroidComposeView: boolean getScrollCaptureInProgress$ui_release()
+androidx.room.SharedSQLiteStatement: androidx.sqlite.db.SupportSQLiteStatement acquire()
+kotlinx.coroutines.flow.SharingCommand: kotlinx.coroutines.flow.SharingCommand[] values()
+androidx.compose.ui.platform.AbstractComposeView: void setParentContext(androidx.compose.runtime.CompositionContext)
+kotlinx.coroutines.android.AndroidDispatcherFactory: java.lang.String hintOnError()
+androidx.room.RoomDatabase: void beginTransaction()
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event valueOf(java.lang.String)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: void setContainerTitle(android.view.accessibility.AccessibilityNodeInfo,java.lang.CharSequence)
+androidx.compose.ui.platform.ViewLayerContainer: void dispatchGetDisplayList()
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api23Impl: android.os.Bundle getExtras(android.view.ViewStructure)
+com.sikandar.aurajot.domain.model.TaskItem: boolean equals(java.lang.Object)
+androidx.compose.ui.platform.coreshims.ViewStructureCompat$Api23Impl: android.os.Bundle getExtras(android.view.ViewStructure)
+androidx.core.view.ViewCompat$Api21Impl: void setZ(android.view.View,float)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: boolean previewHandwritingGesture$foundation_release(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.PreviewableHandwritingGesture,androidx.compose.foundation.text.input.internal.TextLayoutState,android.os.CancellationSignal)
+com.sikandar.aurajot.data.local.AuraJotDatabase_Impl$1: void onOpen(androidx.sqlite.db.SupportSQLiteDatabase)
+com.sikandar.aurajot.domain.model.TrashItem$NoteTrash: TrashItem$NoteTrash(com.sikandar.aurajot.domain.model.Note)
+kotlin.DeprecationLevel: kotlin.DeprecationLevel[] values()
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api34Impl: android.view.accessibility.AccessibilityNodeInfo$AccessibilityAction getActionScrollInDirection()
+kotlinx.coroutines.flow.SharingCommand: kotlinx.coroutines.flow.SharingCommand valueOf(java.lang.String)
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: LifecycleDispatcher$DispatcherActivityCallback()
+androidx.activity.EdgeToEdgeApi21: void setUp(androidx.activity.SystemBarStyle,androidx.activity.SystemBarStyle,android.view.Window,android.view.View,boolean,boolean)
+com.sikandar.aurajot.data.local.entity.NoteEntity: java.lang.String getTitle()
+com.sikandar.aurajot.data.local.entity.TaskEntity: boolean isCompleted()
+androidx.compose.ui.platform.AndroidComposeView: boolean getShowLayoutBounds()
+com.sikandar.aurajot.data.local.dao.TaskDao_Impl$7: TaskDao_Impl$7(com.sikandar.aurajot.data.local.dao.TaskDao_Impl,com.sikandar.aurajot.data.local.entity.TaskEntity)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: ProcessLifecycleOwner$attach$1$onActivityPreCreated$1(androidx.lifecycle.ProcessLifecycleOwner)
+androidx.core.view.ViewCompat$Api21Impl: float getZ(android.view.View)
+com.sikandar.aurajot.domain.model.TrashItem: long getDeletedAt()
+com.sikandar.aurajot.data.local.dao.NoteDao_Impl$9: java.lang.Object call()
+androidx.compose.ui.platform.AbstractComposeView: boolean getHasComposition()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.draganddrop.DragAndDropManager getDragAndDropManager()
+androidx.room.RoomDatabase: void access$internalBeginTransaction(androidx.room.RoomDatabase)
+androidx.core.view.ViewCompat$Api23Impl: void setScrollIndicators(android.view.View,int,int)
+androidx.room.RoomDatabase: void isOpenInternal$annotations()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void registerIn(android.app.Activity)
+com.sikandar.aurajot.data.local.entity.NoteEntity: long component1()
+com.sikandar.aurajot.domain.model.TrashItem$NoteTrash: java.lang.String getTitle()
+kotlinx.coroutines.android.AndroidDispatcherFactory: int getLoadPriority()
+androidx.compose.foundation.text.input.internal.undo.TextFieldEditUndoBehavior: androidx.compose.foundation.text.input.internal.undo.TextFieldEditUndoBehavior[] values()
+androidx.room.RoomDatabase: androidx.sqlite.db.SupportSQLiteOpenHelper getOpenHelper()
+androidx.core.view.ViewCompat$Api28Impl: boolean isAccessibilityHeading(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl30: androidx.core.graphics.Insets getInsetsIgnoringVisibility(int)
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl29)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isVisible(int)
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$Api30Impl: java.lang.Object createRangeInfo(int,float,float,float)
+androidx.compose.ui.platform.ComposeView: java.lang.CharSequence getAccessibilityClassName()
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+com.sikandar.aurajot.data.local.entity.TaskEntity: long component1()
+androidx.core.view.ViewCompat$Api21Impl: void setElevation(android.view.View,float)
+com.sikandar.aurajot.data.local.dao.TaskDao: java.lang.Object restoreTask(long,kotlin.coroutines.Continuation)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performSelectRangeGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.SelectRangeGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.core.view.ViewCompat$Api21Impl: void setTranslationZ(android.view.View,float)
+androidx.room.RoomDatabase$JournalMode: androidx.room.RoomDatabase$JournalMode valueOf(java.lang.String)
